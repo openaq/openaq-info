@@ -19,6 +19,7 @@
 **6. Why does OpenAQ require funding, anyway?**
 
 **7. Can I donate funds?**
+
 ---
 ##B. Open Data Access
 
