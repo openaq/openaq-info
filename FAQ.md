@@ -1,5 +1,5 @@
 #Frequently Asked Questions
-
+---
 
  **A. The Organization and Community**
 
@@ -18,7 +18,7 @@
 6. Why does OpenAQ require funding, anyway?
 
 
-
+---
  **B. Open Data Access**
 
 7. What kinds of data are stored to the OpenAQ Platform?
@@ -31,7 +31,7 @@
 
 11. What guarantees of the data accuracy are made of the data? 
 
-
+---
 
  **C. Open Software Platform** 
 
@@ -41,7 +41,7 @@
 
 14. What is the license of the software?
 
- 
+ ---
  
  **D. Contributing and Participating with the OpenAQ Platform and Community**
 
