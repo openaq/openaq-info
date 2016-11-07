@@ -44,7 +44,7 @@
  
 ## Contributing and Participating with the OpenAQ Platform and Community
 
-### Contributing Data Sources
+- ### Contributing Data Sources
 
 15. How can I help contribute new data sources? What information is needed for a new data source?
 
@@ -52,14 +52,14 @@
 
 
 
-###Contributing Development Skills for Enhancing the Platform
+- ### Contributing Development Skills for Enhancing the Platform
 
 17. What skills are needed to contribute to the code-base? 
 
 18. Where can I find existing issues I can help out with?
 
 
-### Using the data
+- ### Using the data
 
 19. What community tools exist that I can use to explore the data?
 
@@ -67,7 +67,7 @@
 
 
 
-### Communicating with the Community
+- ### Communicating with the Community
 
 21. Where can I find people in the OpenAQ Community to chat with? 
 
