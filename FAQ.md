@@ -43,7 +43,7 @@
 
 **15. What is the license of the software?**
  
-##D. Contributing and Participating with the OpenAQ Platform and Community
+##D. Contributing to the OpenAQ Platform & Community
 
 ###Ongoing Projects
 
@@ -158,7 +158,7 @@ We don't make _any_ guarantees for data quality; that is not the goal of this pl
 
  ---
  
-##D. Contributing and Participating with the OpenAQ Platform and Community
+##D. Contributing with the OpenAQ Platform & Community
 
 ###Ongoing Projects
 
