@@ -1,6 +1,7 @@
 #Frequently Asked Questions
 
- **The Organization and Community**
+
+ **A. The Organization and Community**
 
 0. What is OpenAQ?
 
@@ -18,7 +19,7 @@
 
 
 
- **Open Data Access**
+ **B. Open Data Access**
 
 7. What kinds of data are stored to the OpenAQ Platform?
 
@@ -32,7 +33,7 @@
 
 
 
- **Open Software Platform** 
+ **C. Open Software Platform** 
 
 12. Why is the OpenAQ Platform open-source?
 
@@ -42,7 +43,7 @@
 
  
  
- **Contributing and Participating with the OpenAQ Platform and Community**
+ **D. Contributing and Participating with the OpenAQ Platform and Community**
 
  _Ongoing Projects_
 
