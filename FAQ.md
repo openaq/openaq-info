@@ -211,6 +211,9 @@ _API Libraries_
 - [Ropenaq](http://ropensci.github.io/ropenaq/): an R wrapper for the OpenAQ API, built by Maëlle Salmon in Barcelona, Spain
 - [py-openaq](https://github.com/dhhagan/py-openaq): a Python wrapper for the OpenAQ API, built by David Hagan in Boston, USA
 
+_Do you have an open-source tool you'd like to share? Let us know! Make in issue in GitHub or just email info@openaq.org_ 
+
+
 ###Contributing Data Sources
 
 **18. How can I help contribute new data sources? What information is needed for a new data source?**
@@ -255,7 +258,7 @@ _API Libraries_
 - [Ropenaq](http://ropensci.github.io/ropenaq/): an R wrapper for the OpenAQ API, built by Maëlle Salmon in Barcelona, Spain
 - [py-openaq](https://github.com/dhhagan/py-openaq): a Python wrapper for the OpenAQ API, built by David Hagan in Boston, USA
 
-_Do you have an open-source tool you'd like to share? Let us know! Make in issue in GitHub or just email info@openaq.org 
+_Do you have an open-source tool you'd like to share? Let us know! Make in issue in GitHub or just email info@openaq.org_ 
 
 **23. What are cool ways that I can use the data?**
 
