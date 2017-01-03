@@ -287,7 +287,7 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
-Slack is faster than email because you'll get to talk to the whole community who often know more than any single one of us and also in various timezones. At this point, we've got people over most of the world.
+Slack is faster than email because you'll get to talk to the whole community who often know more than any single one of us and also are in various timezones. At this point, Community members are spread over many parts of the world.
 
 **26. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
