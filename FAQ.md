@@ -108,7 +108,7 @@ The seed of the idea for OpenAQ emerged from a small open air quality project in
 
 **3. Who is part of OpenAQ and what have they built already?**
      
-Anyone who is using data aggregated from the OpenAQ system, helping build the platform or building on top of the platform      in some fashion is part of the OpenAQ Community. Here's a map of usage to date (accessed Jan 2017) from Google Analytics: 
+Anyone who is using data aggregated from the OpenAQ system, helping build the platform or building on top of the platform      in some fashion, and/or interacting with our community around air inequality is part of the OpenAQ Community. Here's a map of our platform's usage to date (accessed Jan 2017) from Google Analytics: 
   
 ![](https://cloud.githubusercontent.com/assets/13404290/21598654/29c026ee-d12e-11e6-8bfa-8f1a3428d21a.jpg)
   
