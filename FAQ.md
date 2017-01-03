@@ -33,7 +33,7 @@
 
 **12. What guarantees of the data accuracy are made of the data?** 
 
-**13. What are the ways I can access data?
+**13. What are the ways I can access data?**
 
 ---
 
@@ -166,7 +166,7 @@ Our intention is to permanently store and provide these data.
 
 We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer of existing reported government-level, research-grade and other air quality data sources in the same       universal format. 
 
-**13. What are the ways I can access data?
+**13. What are the ways I can access data?**
 
 - Use [our open API](docs.openaq.org).
 - [Download data by csv](https://openaq.org/#/countries?_k=kxpa7v) 
@@ -221,7 +221,7 @@ For government-grade sources, we generally have [more data sources](https://gith
 
 For research-grade data, we're soon (as of 2 Jan 2017) adding in an automatic way to add in data. More on that in a couple of weeks. For now, we have to do it by hand, and this is time-intensive for our small band of hardy volunteers.
 
-For non-research-grade low-cost sensors, we currently (as of 7 Nov 2016) have a method to insert them, nor visualize them responsibly. We are proceeding carefully and slowly with adding in low-cost sensor data. It is (tricky business)[http://www.nature.com/news/validate-personal-air-pollution-sensors-1.20195]. 
+For non-research-grade low-cost sensors, we currently (as of 7 Nov 2016) have a method to insert them, nor visualize them responsibly. We are proceeding carefully and slowly with adding in low-cost sensor data. It is [tricky business](http://www.nature.com/news/validate-personal-air-pollution-sensors-1.20195). 
 
 
 ###Contributing Development Skills for Enhancing the Platform
