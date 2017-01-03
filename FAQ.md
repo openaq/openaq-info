@@ -90,6 +90,8 @@ That's what we do now, but we've also got an eye to the future. We want to scale
 
 The broad vision of OpenAQ is to empower communities to end air inequality, and our mission is to enable science, impact policy and empower the public to fight air pollution through open data, open-source tools and cooperation. 
 
+![](https://cloud.githubusercontent.com/assets/13404290/21599553/596f1b08-d13c-11e6-8d59-bd328cdcb599.jpg)
+
 **1. Why does OpenAQ exist?**
     
 [Air inequality](https://medium.com/@openaq/global-air-inequality-summed-up-in-2-graphs-ad3d5a845033#.u9295vu0i) – unequal access to clean air – is responsible for one out of every 8 deaths in the world. The injustice of pollution is often compounded by a lack of easy access to data in the most polluted places – access that, from Los Angeles to Bangkok, has historically enabled communities to improve their air. Many governments, including those in polluted places, publicly share air quality data but often in disparate or temporary forms. Last year, the OpenAQ community began capturing these data and put them in a universal format for anyone to access through our open-source platform. This is the only dataset of its kind open to the world.Using data, open-source tools, online engagement and workshops, we convene various sectors of communities to fight air inequality. We share resources and ideas developed locally at workshops with our global community. 
