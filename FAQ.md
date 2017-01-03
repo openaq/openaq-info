@@ -295,4 +295,4 @@ Is the sky blue (on an unpolluted day)? YES!! We are alway _always_ interested t
 
 **27. What are your favorite emoji?**
 
-That's such an odd an awesome question, but here you go. 👍💃🐶🚀
+That's such an odd and awesome question. Here you go: 👍💃🐶🚀
