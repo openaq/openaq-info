@@ -155,6 +155,7 @@ Data are attributed directly to their sources in the [data format](https://githu
 If you notice any inconsistencies or mistakes regarding attribution. Please let us know at: info@openaq.org
 
 **10. How are the data licensed?**
+
 The data is licensed under [CC-By 4.0](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md).
 
 **11. How long are data stored?**
@@ -166,6 +167,7 @@ Our intention is to permanently store and provide these data.
 We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer of existing reported government-level, research-grade and other air quality data sources in the same       universal format. 
 
 **13. What are the ways I can access data?
+
 - Use [our open API](docs.openaq.org).
 - [Download data by csv](https://openaq.org/#/countries?_k=kxpa7v) 
 - You can [build you ownair quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25&_k=r19s4f) of stations around the world.
@@ -176,6 +178,7 @@ We don't make _any_ guarantees for data quality; that is not the goal of this pl
 ##C. Open Software Platform
 
 **14. Why is the OpenAQ Platform open-source?**
+
 We want people to be able to add to what we’re doing, improve upon it and to build on top of it. We also want people to be able to take snippets of our code that are most useful to them for whatever purpose. That’s best accomplished by keeping our source code open. Read more about our guiding principles [here](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5).
 
 **15. Where can I find the open-source software that utilizes OpenAQ-aggregated data?**
@@ -189,6 +192,7 @@ _API Libraries_
 
 
 **16. What is the license of the software?**
+
 All parts of the OpenAQ software are under the MIT License. Each of [our GitHub repos](https://github.com/openaq) lists this under its license. See [here](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md) for the API, for example.
  ---
  
@@ -208,6 +212,7 @@ _API Libraries_
 ###Contributing Data Sources
 
 **18. How can I help contribute new data sources? What information is needed for a new data source?**
+
 You can make a [GitHub issue here](https://github.com/openaq/openaq-fetch/issues), submit something on a Google Form, or email us at info@open.org. The data format and requirements are listed [here](https://github.com/openaq/openaq-data-format).
 
 **19. I suggested a new data source, but I haven't seen it added yet. What gives?**
@@ -238,6 +243,7 @@ Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/dev
 ###Using the Data
 
 **22. What community tools exist that I can use to explore the data?**
+
 You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25&_k=r19s4f) of stations around the world, check out the [global map](https://openaq.org/#/map?_k=onneti) or [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or [our open API](docs.openaq.org).
 
 _Data Browsers & Visualizations:_
@@ -259,6 +265,7 @@ You can start playing around by [building you own air quality comparisons](https
 ###Communicating with the Community
 
 **24. Where can I find people in the OpenAQ Community to chat with?** 
+
 The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free way we use to chat with one another. 
 
 You can also join us on [Twitter](https://twitter.com/Open_AQ) or on our new [Facebook Page](https://www.facebook.com/openaq/), as well. 
@@ -266,6 +273,7 @@ You can also join us on [Twitter](https://twitter.com/Open_AQ) or on our new [Fa
 Always feel free to reach out by email, too (info@openaq.org). 
 
 **25. I have a question that isn't answered here. How can I get it answered?**
+
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
 Slack is faster than email because you'll get to talk to the whole community who often know more than any single one of us and also in various timezones. 
