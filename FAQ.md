@@ -119,9 +119,9 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 
 **4. What type of organization is OpenAQ and why?**
 
-We're currently a c-corps, incorporated in Washington, DC. Originally, we just created the platform itself, but we realized the most sustainable path forward for the platform and the community was to build an organization to house them. Frankly, we weren't sure what was the most sustainable organizational path to keep these open data flowing freely, so we incorporated as what seemed the simplest org-type we could be to accept funds and remove ourselves from personal liability. 
+We're currently a c-corps, incorporated in Washington, DC. Originally, we just started creating the platform outside of any organization, but we realized the most sustainable path forward for the platform and the community was to build or partner with an organization to house them. Frankly, we weren't sure what was the most sustainable organizational path to keep these open data flowing freely, so we incorporated as what seemed the simplest org-type we could be to accept funds and remove ourselves from personal liability. 
 
-Now we're working on our non-profit status because, well, [our mission](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5) just aligns way better with that organizational type. But we've never done this before, and we're learning as we go. Wanna help us? Shoot us an email: info@openaq.org
+Now we're working on our non-profit status because [our mission](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5) naturally aligns with that organizational type. But we've never done this before, and we're learning as we go. Are you an individual or an organization interestedin helping us? Shoot us an email: info@openaq.org
 
 
 **5. How is OpenAQ funded?**
