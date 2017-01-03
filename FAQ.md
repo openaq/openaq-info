@@ -95,7 +95,7 @@ The broad vision of OpenAQ is to empower communities to end air inequality, and 
 
 **1. Why does OpenAQ exist?**
     
-[Air inequality](https://medium.com/@openaq/global-air-inequality-summed-up-in-2-graphs-ad3d5a845033#.u9295vu0i) – unequal access to clean air – is responsible for one out of every 8 deaths in the world. The injustice of pollution is often compounded by a lack of easy access to data in the most polluted places – access that, from Los Angeles to Bangkok, has historically enabled communities to improve their air. Many governments, including those in polluted places, publicly share air quality data but often in disparate or temporary forms. Last year, the OpenAQ community began capturing these data and put them in a universal format for anyone to access through our open-source platform. This is the only dataset of its kind open to the world.Using data, open-source tools, online engagement and workshops, we convene various sectors of communities to fight air inequality. We share resources and ideas developed locally at workshops with our global community. 
+[Air inequality](https://medium.com/@openaq/global-air-inequality-summed-up-in-2-graphs-ad3d5a845033#.u9295vu0i) – unequal access to clean air – is responsible for one out of every 8 deaths in the world. The injustice of pollution is often compounded by a lack of easy access to data in the most polluted places – access that, from Los Angeles to Bangkok, has historically enabled communities to improve their air. Many governments, including those in polluted places, publicly share air quality data but often in disparate or temporary forms. Last year, the OpenAQ community began capturing these data and put them in a universal format for anyone to access through our open-source platform. This is the only dataset of its kind open to the world. Using data, open-source tools, online engagement and workshops, we convene various sectors of communities to fight air inequality. We share resources and ideas developed locally at workshops with our global community. 
     
 We do this because we think this platform can be [_transformational_](https://medium.com/@openaq/filling-the-air-quality-data-gap-10e0a494517#.jlqkzcggv) for public health and the environment. And no one else was doing it. We even pestered some groups to do it who we thought could could do it better than us. When no one did, we started doing this work because we think it is too important for someone _not_ to. 
     
@@ -122,7 +122,7 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 
 We're currently a c-corps, incorporated in Washington, DC. Originally, we just started creating the platform outside of any organization, but we realized the most sustainable path forward for the platform and the community was to build or partner with an organization to house them. Frankly, we weren't sure what was the most sustainable organizational path to keep these open data flowing freely, so we incorporated as what seemed the simplest org-type we could be to accept funds and remove ourselves from personal liability. 
 
-Now we're working on our non-profit status because [our mission](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5) naturally aligns with that organizational type. But we've never done this before, and we're learning as we go. Are you an individual or an organization interestedin helping us? Shoot us an email: info@openaq.org
+Now we're working on our non-profit status because [our mission](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5) naturally aligns with that organizational type. But we've never done this before, and we're learning as we go. Are you an individual or an organization interested in helping us? Shoot us an email: info@openaq.org
 
 
 **5. How is OpenAQ funded?**
@@ -135,14 +135,14 @@ We are always on the lookout for partnerships to help us sustain and expand what
 
 **6. Why does OpenAQ require funding, anyway?**
 
-We're a pretty bare-bones operation, but we do need funds to a) fetch, store, and serve out all these data, b) host            workshops around the world, c) pay our one full-time staff member, d) contract out services for cool enhancements that        make the data easier and just keep the system working, and e) a small bit of organizational costs. 
+We're a pretty bare-bones operation, but we do need funds to a) fetch, store, and serve out all these data, b) host            workshops around the world, c) pay our one full-time staff member, d) contract out services for cool enhancements that        make the data easier and just keep the system working, and e) a small bit of organizational-upkeep costs. 
    
-We're also looking with an eye to the future. We want to scale what we're doing to include more data-source types (we're looking at you,low-cost sensors), hold more workshops, and possibly even fund open air quality projects in places that need them most. 
+We're also looking with an eye to the future. We want to scale what we're doing to include more data-source types (we're looking at you, low-cost sensors), hold more workshops, and possibly even fund open air quality projects in places that need them most. 
    
    
 **7. Can I donate funds?**
    
-It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we're much more interested in seeing individuals' skills applied to doing awesome stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
+It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we're much more interested in seeing individuals' skills applied to doing cool stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
 
 ---
 ##B. Open Data Access
@@ -167,7 +167,7 @@ Our intention is to permanently store and provide these data.
 
 **12. What guarantees of the data accuracy are made of the data?** 
 
-We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer of existing reported government-level, research-grade and other air quality data sources in the same       universal format. 
+We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer aggregatig existing reported government-level, research-grade and other air quality data sources in the same universal format. 
 
 We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq-community-wish-list-846ef2a78dc0#.c8yqmxe0x) with ideas of what people would like to see built around the platform and a QA/QC'd layer is on that. If you're interested in seeing this exist, we'd love to help you build it!
 
@@ -256,6 +256,7 @@ Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/dev
 
 You can start playing around by [building your own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map) or [downloading data by csv](https://openaq.org/#/countries) or [our open API](https://docs.openaq.org).
 
+Here are open-source tools built by community members:
 _Data Browsers & Visualizations:_
 - [OpenAQ Browser](https://dolugen.github.io/openaq-browser/#/): This browser allows the user to sift, sort and visualize OpenAQ-aggregated data in a friendly way, built by Dolugen Buuralda in Ulaanbaatar, Mongolia
 
@@ -267,7 +268,7 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 **23. What are cool ways that I can use the data?**
 
-That's really up to you! And your imagination is the limit. In addition to the tools in the above FAQ, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://openaq-slackin.herokuapp.com/).
+That's really up to you! And your imagination is the limit. In addition to the tools in the above question, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://openaq-slackin.herokuapp.com/).
 
 You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map), [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or use [our open API](https://docs.openaq.org).
 
@@ -278,7 +279,7 @@ You can start playing around by [building you own air quality comparisons](https
 
 The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
-You can also join us on [Twitter](https://twitter.com/Open_AQ) or on our new [Facebook Page](https://www.facebook.com/openaq/), as well. 
+You can also join us on [Twitter](https://twitter.com/Open_AQ) or on our new [Facebook Page](https://www.facebook.com/openaq/). 
 
 Always feel free to reach out by email, too (info@openaq.org). 
 
