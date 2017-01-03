@@ -77,6 +77,7 @@
 
 **26. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
+**27. What are your favorite emoji?**
 
 
 ---
@@ -141,7 +142,7 @@ We're also looking with an eye to the future. We want to scale what we're doing 
    
 **7. Can I donate funds?**
    
-We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we're much more interested in seeing individuals' skills applied to doing awesome stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
+It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we're much more interested in seeing individuals' skills applied to doing awesome stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
 
 ---
 ##B. Open Data Access
@@ -152,7 +153,7 @@ We currently aggregate PM2.5, PM10, CO, SO2, NO2, O3, and BC. You can read more 
 
 **9. How are data attributed to their sources? How can I find out the sources of the aggregated data?**
 
-Data are attributed directly to their sources in the [data format](https://github.com/openaq/openaq-data-format). This is evident when [downloading data](https://openaq.org/#/countries/AU?_k=yvnp7e) by CSV or accessible from the [API](docs.openaq.org). 
+Data are attributed directly to their sources in the [data format](https://github.com/openaq/openaq-data-format). This is evident when [downloading data](https://openaq.org/#/countries/AU) by CSV or accessible from the [API](https://docs.openaq.org). 
 
 If you notice any inconsistencies or mistakes regarding attribution. Please let us know at: info@openaq.org
 
@@ -168,12 +169,16 @@ Our intention is to permanently store and provide these data.
 
 We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer of existing reported government-level, research-grade and other air quality data sources in the same       universal format. 
 
+We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq-community-wish-list-846ef2a78dc0#.c8yqmxe0x) with ideas of what people would like to see built around the platform and a QA/QC'd layer is on that. If you're interested in seeing this exist, we'd love to help you build it!
+
 **13. What are the ways I can access data?**
 
-- Use [our open API](docs.openaq.org).
-- [Download data by csv](https://openaq.org/#/countries?_k=kxpa7v) 
-- You can [build you ownair quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25&_k=r19s4f) of stations around the world.
-- Check out the [global map](https://openaq.org/#/map?_k=onneti) 
+- Use [our open API](https://docs.openaq.org).
+- [Download data by csv](https://openaq.org/#/countries) 
+- You can [build you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world.
+- Check out the [global map](https://openaq.org/#/map) 
+- [Daily CSV dumps](https://openaq-data.s3.amazonaws.com/index.html)
+- [Daily PostgeSQL database snapshots](https://github.com/openaq/oh-snap) on Amazon RDS
 
 ---
 
@@ -218,29 +223,29 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 **18. How can I help contribute new data sources? What information is needed for a new data source?**
 
-You can make a [GitHub issue here](https://github.com/openaq/openaq-fetch/issues), submit something on a Google Form, or email us at info@open.org. The data format and requirements are listed [here](https://github.com/openaq/openaq-data-format).
+You can make a [GitHub issue here](https://github.com/openaq/openaq-fetch/issues), submit something via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdcmn3qxoM69XIjJ3Pl4cyO6Ffk8TT40NC_XizS6snAQ7Z8_A/viewform), or email us at info@open.org. The data format and requirements are listed [here](https://github.com/openaq/openaq-data-format).
 
 **19. I suggested a new data source, but I haven't seen it added yet. What gives?**
 
-For government-grade sources, we generally have [more data sources](https://github.com/openaq/openaq-fetch/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) waiting to be added than we do bandwidth to insert them. We don't have any paid full-time (or part-time) developers, and rely on people to donate their time to add data sources. We're always seeking more help with those interested and with the skills to add in data sources to our system. In the future, as funds permit, we may contract out individuals to help with certain, particularly difficult sources.   
+For government-grade sources, we generally have [more data sources](https://github.com/openaq/openaq-fetch/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) waiting to be added than we do bandwidth to insert them. We don't have any paid full-time (or part-time) developers, and rely on people to donate their time to add data sources. We're always seeking more help with those interested and with the skills to add in data sources to our system. In the future, as funds permit, we may contract out individuals to help us add in data sources more quickly.   
 
-For research-grade data, we're soon (as of 2 Jan 2017) adding in an automatic way to add in data. More on that in a couple of weeks. For now, we have to do it by hand, and this is time-intensive for our small band of hardy volunteers.
+For research-grade data, we're adding in an automatic way to add in data. More on that in a couple of weeks. For now, we have to do it by hand, and this is time-intensive for our small band of hardy volunteers.
 
-For non-research-grade low-cost sensors, we currently (as of 7 Nov 2016) have a method to insert them, nor visualize them responsibly. We are proceeding carefully and slowly with adding in low-cost sensor data. It is [tricky business](http://www.nature.com/news/validate-personal-air-pollution-sensors-1.20195). 
+For non-research-grade low-cost sensors, we currently do not have a method to insert them, nor visualize them responsibly. We are proceeding carefully and slowly with adding in low-cost sensor data. It is [tricky business](http://www.nature.com/news/validate-personal-air-pollution-sensors-1.20195). 
 
 
 ###Contributing Development Skills for Enhancing the Platform
 
 **20. What skills are needed to contribute to the code-base?** 
 
-The front end is written in css, html and javascript. The back end is primarily in Node.js.
+The front end is written in CSS, HTML and JavaScript using React. The API and updater are writen in JavaScript using Node.js. There are a number of other small pieces (CSV exporter, health checker), mostly written in JS/Node.js. If you're interested in system architecture, everything runs on AWS.
 
 
 **21. How can I contribute my software development skills? Where can I find existing GitHub issues I can help out with?**
 
 Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/develop/CONTRIBUTING.md) for developers.
 
-[Here](https://github.com/openaq)'s where we are on GitHub. And one of the best ways to get oriented right now is to just reach out on [Slack](https://openaq-slackin.herokuapp.com/).
+[Here](https://github.com/openaq)'s where we are on GitHub. You can see the most important respositories pinned at the top and all have managed issues lists. And one of the best ways to get oriented right now is to just reach out on [Slack](https://openaq-slackin.herokuapp.com/).
 
 
 
@@ -249,7 +254,7 @@ Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/dev
 
 **22. What community tools exist that I can use to explore the data?**
 
-You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25&_k=r19s4f) of stations around the world, check out the [global map](https://openaq.org/#/map?_k=onneti) or [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or [our open API](docs.openaq.org).
+You can start playing around by [building your own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map) or [downloading data by csv](https://openaq.org/#/countries) or [our open API](https://docs.openaq.org).
 
 _Data Browsers & Visualizations:_
 - [OpenAQ Browser](https://dolugen.github.io/openaq-browser/#/): This browser allows the user to sift, sort and visualize OpenAQ-aggregated data in a friendly way, built by Dolugen Buuralda in Ulaanbaatar, Mongolia
@@ -262,16 +267,16 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 **23. What are cool ways that I can use the data?**
 
-That's really up to you! And your imagination is the limit. In addition to the tools in the above FAQ, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community?_k=a01e2l), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://openaq-slackin.herokuapp.com/).
+That's really up to you! And your imagination is the limit. In addition to the tools in the above FAQ, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://openaq-slackin.herokuapp.com/).
 
-You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25&_k=r19s4f) of stations around the world, check out the [global map](https://openaq.org/#/map?_k=onneti), [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or use [our open API](docs.openaq.org).
+You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map), [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or use [our open API](https://docs.openaq.org).
 
 
 ###Communicating with the Community
 
 **24. Where can I find people in the OpenAQ Community to chat with?** 
 
-The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free way we use to chat with one another. 
+The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
 You can also join us on [Twitter](https://twitter.com/Open_AQ) or on our new [Facebook Page](https://www.facebook.com/openaq/), as well. 
 
@@ -281,8 +286,12 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
-Slack is faster than email because you'll get to talk to the whole community who often know more than any single one of us and also in various timezones. 
+Slack is faster than email because you'll get to talk to the whole community who often know more than any single one of us and also in various timezones. At this point, we've got people over most of the world.
 
 **26. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
 Is the sky blue (on an unpolluted day)? YES!! We are alway _always_ interested to hear how people are using these aggregated data - in fact, conveying the awesome work going on in our community is how we justify our existence to both ourselves and our funders! So please do tell us (info@openaq.org). 
+
+**27. What are your favorite emoji?**
+
+That's such an odd an awesome question, but here you go. 👍💃🐶🚀
