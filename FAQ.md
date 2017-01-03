@@ -102,7 +102,7 @@ You can read more about our mission here and the _why_ behind our work [here](ht
 
 **2. Who started OpenAQ and what motivated them to do it?**
     
-The seed of the idea for OpenAQ emerged from a small open air quality project in Ulaanbaatar, Mongolia, launched by co-       founders Joe Flasher and Christa Hasenkopf along with Mongolian colleagues. Amazed at the outsized-impact a little open       air quality data can have on a community, Christa, an atmospheric scientist, fell in love with open air quality projects.     A few years later, she and Joe, a software developer, wondered: what would happen if all of the world’s air quality data       were made available for the public to explore? One day, they quit wondering, started building, and began asking passionate     people around the world to help.
+The seed of the idea for OpenAQ emerged from a small open air quality project in Ulaanbaatar, Mongolia, launched by co-      founders Joe Flasher and Christa Hasenkopf along with Mongolian colleagues. Amazed at the outsized-impact a little open       air quality data can have on a community, Christa, an atmospheric scientist, fell in love with open air quality projects.     A few years later, she and Joe, a software developer, wondered: what would happen if all of the world’s air quality data       were made available for the public to explore? One day, they quit wondering, started building, and began asking passionate     people around the world to help.
 
 
 **3. Who is part of OpenAQ and what have they built already?**
