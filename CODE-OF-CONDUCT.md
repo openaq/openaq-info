@@ -5,7 +5,7 @@ OpenAQ is a community organization. We value the involvement of everyone in this
 
 To make clear what is expected, everyone participating in OpenAQ activities is required to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by OpenAQ including, but not limited to, workshops, email lists, online forums and on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.
 
-If you believe someone is violating the Code of Conduct we ask that you report it to Christa (christa@openaq.org) or Joe (joe@openaq.org), and if the violation occurs during a workshop or other in-person event, by contacting the host and/or coordinator. All reports will be kept confidential. 
+If you believe someone is violating the Code of Conduct we ask that you report it to Christa (christa@openaq.org) or Joe (flasher@openaq.org), and if the violation occurs during a workshop or other in-person event, by contacting the host and/or coordinator. All reports will be kept confidential. 
 
 ---
 
