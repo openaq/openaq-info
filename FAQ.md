@@ -167,7 +167,7 @@ Our intention is to permanently store and provide these data.
 
 **12. What guarantees of the data accuracy are made of the data?** 
 
-We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer aggregatig existing reported government-level, research-grade and other air quality data sources in the same universal format. 
+We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer aggregating existing reported government-level, research-grade and other air quality data sources in the same universal format. 
 
 We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq-community-wish-list-846ef2a78dc0#.c8yqmxe0x) with ideas of what people would like to see built around the platform and a QA/QC'd layer is on that. If you're interested in seeing this exist, we'd love to help you build it!
 
