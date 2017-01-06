@@ -1,4 +1,4 @@
-(WIP)
+(Always a WIP)
 
 #Frequently Asked Questions
 ---
@@ -75,11 +75,13 @@
 
 **25. Where can I find people in the OpenAQ Community to chat with?** 
 
-**26. I have a question that isn't answered here. How can I get it answered?**
+**26. How do I join your Slack Channel?**
 
-**27. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+**27. I have a question that isn't answered here. How can I get it answered?**
 
-**28. What are your favorite emoji?**
+**28. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+
+**29. What are your favorite emoji?**
 
 
 ---
@@ -290,16 +292,20 @@ You can also join us on [Twitter](https://twitter.com/Open_AQ) or on our new [Fa
 
 Always feel free to reach out by email, too (info@openaq.org). 
 
-**26. I have a question that isn't answered here. How can I get it answered?**
+**26. How do I join your Slack Channel?**
+
+Go here: https://openaq-slackin.herokuapp.com/
+
+**27. I have a question that isn't answered here. How can I get it answered?**
 
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
 Slack is faster than email because you'll get to talk to the whole community who often know more than any single one of us and also are in various timezones. At this point, Community members are spread over many parts of the world.
 
-**27. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+**28. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
 Is the sky blue (on an unpolluted day)? YES!! We are alway _always_ interested to hear how people are using these aggregated data - in fact, conveying the awesome work going on in our community is how we justify our existence to both ourselves and our funders! So please do tell us (info@openaq.org). 
 
-**28. What are your favorite emoji?**
+**29. What are your favorite emoji?**
 
 That's such an odd and awesome question. Here you go: 👍💃🐶🚀
