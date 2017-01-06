@@ -245,7 +245,7 @@ For non-research-grade low-cost sensors, we currently do not have a method to in
 
 **21. What skills are needed to contribute to the code-base?** 
 
-The front end is written in CSS, HTML and JavaScript using React. The API and updater are writen in JavaScript using Node.js. There are a number of other small pieces (CSV exporter, health checker), mostly written in JS/Node.js. If you're interested in system architecture, everything runs on AWS.
+The front end is written in CSS, HTML and JavaScript using React. The API and updater are written in JavaScript using Node.js. There are a number of other small pieces (CSV exporter, health checker), mostly written in JS/Node.js. If you're interested in system architecture, everything runs on AWS.
 
 
 **22. How can I contribute my software development skills? Where can I find existing GitHub issues I can help out with?**
