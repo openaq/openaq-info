@@ -146,7 +146,7 @@ We're also looking with an eye to the future. We want to scale what we're doing 
    
 **7. Can I donate funds?**
    
-It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we're much more interested in seeing individuals' skills applied to doing cool stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
+It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we'd be much more grateful if you can dedicate your time and skills to doing cool stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
 
 
 **8. Do you have a Community Code of Conduct?**
@@ -177,6 +177,8 @@ Our intention is to permanently store and provide these data.
 **13. What guarantees of the data accuracy are made of the data?** 
 
 We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer aggregating existing reported government-level, research-grade and other air quality data sources in the same universal format. 
+
+A few more details on _why_ we don't do any QA/QC'ing of data: (1) Adjusting these values, even for some form of QA/QC, makes a judgement on a given source's (e.g. government's) data. We do not seek to do that. (2) There are many ways one can do QA/QC'ing of the data, depending on one's need and field, and (3) There are uses for the 'uncleaned' data, one of which is full transparency to downstream users.
 
 We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq-community-wish-list-846ef2a78dc0#.c8yqmxe0x) with ideas of what people would like to see built around the platform and a QA/QC'd layer is on that. If you're interested in seeing this exist, we'd love to help you build it!
 
