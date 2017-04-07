@@ -2,7 +2,7 @@
 
 Frequently Asked Questions
 ---
-A. The Organization and Community
+### A. The Organization and Community
 
 **0. What is OpenAQ?**
 
@@ -23,7 +23,7 @@ A. The Organization and Community
 **8. Do you have a Community Code of Conduct?**
 
 ---
-B. Open Data Access
+### B. Open Data Access
 
 **9. What kinds of data are stored to the OpenAQ Platform?**
 
@@ -39,7 +39,7 @@ B. Open Data Access
 
 ---
 
-C. Open Software Platform
+### C. Open Software Platform
 
 **15. Why is the OpenAQ Platform open-source?**
 
@@ -47,14 +47,14 @@ C. Open Software Platform
 
 **17. What is the license of the software?**
  
-##D. Contributing to the OpenAQ Platform & Community
+### D. Contributing to the OpenAQ Platform & Community
 
-Ongoing Projects
+#### Ongoing Projects
 
 **18. What are some ongoing open-source projects involving OpenAQ?**
 
 
-Contributing Data Sources
+#### Contributing Data Sources
 
 **19. How can I help contribute new data sources? What information is needed for a new data source?**
 
@@ -67,14 +67,14 @@ Contributing Development Skills for Enhancing the Platform
 **22. Where can I find existing issues I can help out with?**
  
 
-Using the Data
+#### Using the Data
 
 **23. What community tools exist that I can use to explore the data?**
 
 **24. What are cool ways that I can use the data?**
 
 
-Communicating with the Community
+#### Communicating with the Community
 
 **25. Where can I find people in the OpenAQ Community to chat with?** 
 
@@ -88,7 +88,7 @@ Communicating with the Community
 
 
 ---
-A. The Organization and Community
+### A. The Organization and Community
 
 **0. What is OpenAQ?**
     
@@ -158,7 +158,7 @@ Why, yes we do! You can read the [OpenAQ Community Code of Conduct here](https:/
 
 
 ---
-B. Open Data Access
+### B. Open Data Access
 
 **9. What kinds of air pollution data are stored to the OpenAQ Platform?**
 
@@ -197,7 +197,7 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 ---
 
-C. Open Software Platform
+ ### C. Open Software Platform
 
 **15. Why is the OpenAQ Platform open-source?**
 
@@ -218,9 +218,9 @@ _API Libraries_
 All parts of the OpenAQ software are under the MIT License. Each of [our GitHub repos](https://github.com/openaq) lists this under its license. See [here](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md) for the API, for example.
  ---
  
-D. Contributing with the OpenAQ Platform & Community
+### D. Contributing with the OpenAQ Platform & Community
 
-Ongoing Projects
+#### Ongoing Projects
 
 **18. What are some ongoing open-source projects involving OpenAQ?**
 
@@ -234,7 +234,7 @@ _API Libraries_
 _Do you have an open-source tool you'd like to share? Let us know! Make in issue in GitHub or just email info@openaq.org_ 
 
 
-Contributing Data Sources
+#### Contributing Data Sources
 
 **19. How can I help contribute new data sources? What information is needed for a new data source?**
 
@@ -249,7 +249,7 @@ For research-grade data, we're adding in an automatic way to add in data. More o
 For non-research-grade low-cost sensors, we currently do not have a method to insert them, nor visualize them responsibly. We are proceeding carefully and slowly with adding in low-cost sensor data. It is [tricky business](http://www.nature.com/news/validate-personal-air-pollution-sensors-1.20195). 
 
 
-Contributing Development Skills for Enhancing the Platform
+#### Contributing Development Skills for Enhancing the Platform
 
 **21. What skills are needed to contribute to the code-base?** 
 
@@ -264,8 +264,7 @@ Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/dev
 
 
 
-
-###Using the Data
+#### Using the Data
 
 **23. What community tools exist that I can use to explore the data?**
 
@@ -288,7 +287,7 @@ That's really up to you! And your imagination is the limit. In addition to the t
 You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map), [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or use [our open API](https://docs.openaq.org).
 
 
-Communicating with the Community
+#### Communicating with the Community
 
 **25. Where can I find people in the OpenAQ Community to chat with?** 
 
