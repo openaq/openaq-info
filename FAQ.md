@@ -149,7 +149,7 @@ We're also looking with an eye to the future. We want to scale what we're doing 
    
 **7. Can I donate funds?**
    
-It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we'd be much more grateful if you can dedicate your time and skills to doing cool stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
+It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we'd be much more grateful if you can dedicate your time and skills to doing cool stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. We also expect large organizations that use the OpenAQ platform to find a way to give back to our community for the sustainability of our system. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
 
 
 **8. Do you have a Community Code of Conduct?**
