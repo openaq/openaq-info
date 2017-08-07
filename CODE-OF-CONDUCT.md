@@ -1,5 +1,5 @@
 
-#About The OpenAQ Code of Conduct
+# About The OpenAQ Code of Conduct
 
 OpenAQ is a community organization. We value the involvement of everyone in this community - developpers, users. We are committed to creating a friendly and respectful place for learning  and sharing knowledge about air quality and contributing to the platform. All participants in our repositories, events and communication channels are expected to show respect and courtesy to others.
 
@@ -9,7 +9,8 @@ If you believe someone is violating the Code of Conduct we ask that you report i
 
 ---
 
-#The OpenAQ Code of Conduct
+# The OpenAQ Code of Conduct
+
 OpenAQ is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. However, we recognise that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics  such as such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
 Harassment is any form of behaviour intended to exclude, intimidate, or cause discomfort. 
 
@@ -31,6 +32,6 @@ Enforcement of the Code of Conduct will be respectful and not include any harass
 
 Thank you for helping make this a welcoming, friendly community for all.
 
-##Credits
+## Credits
 This code of conduct is an adaptation of the one used by the Data Carpentry which is an adaptation of the one used by the Software Carpentry Foundation and is a modified version of that used by PyCon, which in turn is forked from a template written by the Ada Initiative and hosted on the Geek Feminism Wiki. Original drafter of this document: Maëlle Salmon. This document is endorsed by the OpenAQ Community.
 
