@@ -14,7 +14,7 @@ Frequently Asked Questions
 
 **4. [What type of organization is OpenAQ and why?](#whatorg)**
 
-**[5. How is OpenAQ funded?](#howfund)**
+**5. [How is OpenAQ funded?](#howfund)**
 
 **6. [Why does OpenAQ require funding, anyway?](#whyfund)**
 
@@ -23,6 +23,7 @@ Frequently Asked Questions
 **8. [Do you have a Community Code of Conduct?](#coc)**
 
 ---
+
 ### B. Open Data Access
 
 **9. [What kinds of data are stored to the OpenAQ Platform?](#datakinds)**
@@ -47,6 +48,7 @@ Frequently Asked Questions
 
 **17. [What is the license of the software?](#licenseopensource)**
  
+---
 
 ### D. Contributing to the OpenAQ Platform & Community
 
@@ -172,6 +174,7 @@ Why, yes we do! You can read the [OpenAQ Community Code of Conduct here](https:/
 
 
 ---
+
 ### B. Open Data Access
 
 <a name="datakinds"/>
@@ -247,6 +250,7 @@ _API Libraries_
 **17. What is the license of the software?**
 
 All parts of the OpenAQ software are under the MIT License. Each of [our GitHub repos](https://github.com/openaq) lists this under its license. See [here](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md) for the API, for example.
+ 
  ---
  
 ### D. Contributing with the OpenAQ Platform & Community
