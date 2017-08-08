@@ -1,4 +1,4 @@
-(Always a WIP)
+(Always a Work In Progress)
 
 Frequently Asked Questions
 ---
@@ -137,12 +137,9 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 <a name="whatorg"/>
 
 **4. What type of organization is OpenAQ and why?**
-In short: We operate as a non-profit. We're working with a pro bono team of lawyers to fully-incorporate as a non-profit with 501c3 status. 
 
-In long:
-We're currently a c-corps, incorporated in Washington, DC. Originally, we just started creating the platform, outside of any organization, but we realized the most sustainable path forward for the platform and the community was to build or partner with an organization to house them. Frankly, we weren't sure what was the most sustainable organizational path to keep these open data flowing freely, so we incorporated as what seemed the simplest org-type we could be to accept funds and remove ourselves from personal liability. 
+We operate as a non-profit. We're working with a pro bono team of lawyers to fully-incorporate as a non-profit with 501c3 status.
 
-Now we're working on our non-profit status because [our mission](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5) naturally aligns with that organizational type, we've found an awesome board, and we've got some pro-bono legal help to do it right.
 
 <a name="howfund"/>
 
