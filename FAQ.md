@@ -113,7 +113,7 @@ The broad vision of OpenAQ is to empower communities to end air inequality, and 
     
 We do this because we think this platform can be [_transformational_](https://medium.com/@openaq/filling-the-air-quality-data-gap-10e0a494517#.jlqkzcggv) for public health and the environment. And no one else was doing it. We even pestered some groups to do it who we thought could could do it better than us. When no one did, we started doing this work because we think it is too important for someone _not_ to. 
     
-You can read more about our mission [here] (https://medium.com/@openaq/the-mission-of-openaq-e290e4ae4a0a) and the _why_ behind our work [here](https://medium.com/@openaq/filling-the-air-quality-data-gap-10e0a494517#.875lv9n2m).
+You can read more about our mission [here](https://medium.com/@openaq/the-mission-of-openaq-e290e4ae4a0a) and the _why_ behind our work [here](https://medium.com/@openaq/filling-the-air-quality-data-gap-10e0a494517#.875lv9n2m).
 
 <a name="who"/>
 
