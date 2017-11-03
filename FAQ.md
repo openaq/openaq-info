@@ -138,7 +138,7 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 
 **4. What type of organization is OpenAQ and why?**
 
-We operate as a non-profit. We're working with a pro bono team of lawyers to fully-incorporate as a non-profit with 501c3 status.
+We operate as a non-profit though we are not one yet. We're working with a pro bono team of lawyers to fully-incorporate as a non-profit with 501c3 status.
 
 
 <a name="howfund"/>
