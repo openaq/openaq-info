@@ -38,6 +38,8 @@ Frequently Asked Questions
 
 **14. [What are the ways I can access data?](#access)**
 
+**14.5 [Why can I only access data for the last 90 days? Where's the rest of the data?](#90days)**
+
 ---
 
 ### C. Open Software Platform
@@ -214,12 +216,27 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 **14. What are the ways I can access data?**
 
-- Use [our open API](https://docs.openaq.org).
-- [Download data by csv](https://openaq.org/#/countries) 
+- Use [our open API](https://docs.openaq.org): This can return data from the past 90 days.
+- [Download data by csv](https://openaq.org/#/countries): This can return data from the past 90 days.
 - You can [build you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world.
 - Check out the [global map](https://openaq.org/#/map) 
 - [Daily CSV dumps](https://openaq-data.s3.amazonaws.com/index.html)
 - [Daily PostgeSQL database snapshots](https://github.com/openaq/oh-snap) on Amazon RDS
+
+
+<a name="90days"/>
+
+**14.5 Why can I only access data for the last 90 days? Where's the rest of the data?**
+
+Second question first! Don't worry, the full archives data are still stored and available through the following mechanisms:
+- Go here for access to the data as it's added to our system: https://openaq-fetches.s3.amazonaws.com/index.html. This data is updated every 10 minutes when a new fetch runs. This source also contains all the information for each measurement. 
+- Go here for access to a daily archive of the data: https://openaq-data.s3.amazonaws.com/index.html. This is an older data format and while it contains most of the information you'd be looking for, it does not contain all the fields for each measurement.
+
+We are working to provide additional, more accessible-friendly ways to access these older data. If you have ideas, share them with us (via: info@openaq.org, a GitHub Issue, or discussion on our [Slack channel](https://openaq-slackin.herokuapp.com/)).
+
+So _why_ can you only access the last 90 days through the API and download portal on the OpenAQ website? 
+
+It comes down to keeping costs down and maintaining API responsiveness. As the number of our data records grew upwards of 100 million, it posed a challenge to make all of that information available through an efficiently running API (which also powers the download portal on the site). It also costs us a chunk of change to support a big database, so like a lot of open data projects, we opted to store older data in a more cost effective method that lets our API run more reliably and our database be smaller.
 
 ---
 
