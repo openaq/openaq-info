@@ -240,6 +240,8 @@ So _why_ can you only access the last 90 days through the API and download porta
 
 It comes down to keeping costs down and maintaining API responsiveness. As the number of our data records grew upwards of 100 million, it posed a challenge to make all of that information available through an efficiently running API (which also powers the download portal on the site). It also costs us a chunk of change to support a big database, so like a lot of open data projects, we opted to store older data in a more cost effective method that lets our API run more reliably and our database be smaller.
 
+<a name="citing"/>
+
 **14.76 How do I cite the OpenAQ platform in peer-reviewed literature?**
 
 Thanks for asking! Once your work is published, please let us know - especially if it is open access. Your work is an important example that justifies our very existence! Also, less grandiosly, it's just cool to hear about and share with the community.
