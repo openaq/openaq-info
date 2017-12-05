@@ -251,15 +251,15 @@ Oh yeah, how to cite the platform. Here are some suggestions:
 "These data were accessed from the OpenAQ Platform (openaq.org) and originate from [XXXX source] (e.g. The U.S. Embassy in Kampala)."
 
 - For mulitple originating data sources that are logistically difficult to list:
-"These data were accessed from the OpenAQ Platform and originate from multiple sources. 
+"These data were accessed from the OpenAQ Platform and originate from multiple sources; see openaq.org for list of sources. 
 
 Essentially, where possible, please recognize the originating sources of the data, in addition to its access point.
 
 - Another example by a Community member who cited OpenAQ in their own paper:  
-OpenAQ, OpenAQ.org [online] Available from: https://openaq.org (Accessed 3
-August 2017), 2017.
+"OpenAQ, OpenAQ.org [online] Available from: https://openaq.org (Accessed 3
+August 2017), 2017."
 
-We also have a peer-reviewed paper in the work. But, we'll be hoenst with you: It could be awhile before that will be citable. :)
+We also have a peer-reviewed paper in the work. But, we'll be honest with you: It could be awhile before that will be citable. :)
 
 
 ---
