@@ -247,13 +247,13 @@ It comes down to keeping costs down and maintaining API responsiveness. As the n
 Thanks for asking! Once your work is published, please let us know - especially if it is open access. Your work is an important example that justifies our very existence! Also, less grandiosly, it's just cool to hear about and share with the community.
 
 Oh yeah, how to cite the platform. Here are some suggestions: 
-- For a single originating data sources:
+- For a single originating data source:
 "These data were accessed from the OpenAQ Platform (openaq.org) and originate from [XXXX source] (e.g. The U.S. Embassy in Kampala)."
 
 - For mulitple originating data sources that are logistically difficult to list:
 "These data were accessed from the OpenAQ Platform and originate from multiple sources; see openaq.org for list of sources. 
 
-Essentially, where possible, please recognize the originating sources of the data, in addition to its access point.
+Essentially, where possible, please recognize the originating sources of the data, in addition to their access point.
 
 - Another example by a Community member who cited OpenAQ in their own paper:  
 "OpenAQ, OpenAQ.org [online] Available from: https://openaq.org (Accessed 3
