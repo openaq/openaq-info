@@ -40,6 +40,8 @@ Frequently Asked Questions
 
 **14.5 [Why can I only access data for the last 90 days? Where's the rest of the data?](#90days)**
 
+**14.76 [How do I cite the OpenAQ platform in peer-reviewed literature?](#citing)**
+
 ---
 
 ### C. Open Software Platform
@@ -237,6 +239,26 @@ We are working to provide additional, more accessible-friendly ways to access th
 So _why_ can you only access the last 90 days through the API and download portal on the OpenAQ website? 
 
 It comes down to keeping costs down and maintaining API responsiveness. As the number of our data records grew upwards of 100 million, it posed a challenge to make all of that information available through an efficiently running API (which also powers the download portal on the site). It also costs us a chunk of change to support a big database, so like a lot of open data projects, we opted to store older data in a more cost effective method that lets our API run more reliably and our database be smaller.
+
+**14.76 How do I cite the OpenAQ platform in peer-reviewed literature?**
+
+Thanks for asking! Once your work is published, please let us know - especially if it is open access. Your work is an important example that justifies our very existence! Also, less grandiosly, it's just cool to hear about and share with the community.
+
+Oh yeah, how to cite the platform. Here are some suggestions: 
+- For a single originating data sources:
+"These data were accessed from the OpenAQ Platform (openaq.org) and originate from [XXXX source] (e.g. The U.S. Embassy in Kampala)."
+
+- For mulitple originating data sources that are logistically difficult to list:
+"These data were accessed from the OpenAQ Platform and originate from multiple sources. 
+
+Essentially, where possible, please recognize the originating sources of the data, in addition to its access point.
+
+- Another example by a Community member who cited OpenAQ in their own paper:  
+OpenAQ, OpenAQ.org [online] Available from: https://openaq.org (Accessed 3
+August 2017), 2017.
+
+We also have a peer-reviewed paper in the work. But, we'll be hoenst with you: It could be awhile before that will be citable. :)
+
 
 ---
 
