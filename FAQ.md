@@ -142,7 +142,7 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 
 **4. What type of organization is OpenAQ and why?**
 
-We operate as a non-profit though we are not one yet. We're working with a pro bono team of lawyers to fully-incorporate as a non-profit with 501c3 status.
+As of 1 Jan 2018, OpenAQ is a Washington, DC-based non-profit! Our inaugural non-profit board is made up of 5 people in the larger DC area: Heidi Yoon, Matt Higgins, Olaf Veerman, Sarah Menon, and Christa Hasenkopf.
 
 
 <a name="howfund"/>
