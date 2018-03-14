@@ -94,6 +94,15 @@ Contributing Development Skills for Enhancing the Platform
 **29. [What are your favorite emoji?](#emoji)**
 
 
+#### OpenAQ Community Survey
+
+**30. [How can I take the Community Survey?](#survey)**
+
+**31. [How can I find the results from last year's Community Survey?](#surveyresults)**
+
+
+
+
 ---
 ### A. The Organization and Community
 
@@ -407,3 +416,18 @@ Is the sky blue (on an unpolluted day)? YES!! We are alway _always_ interested t
 **29. What are your favorite emoji?**
 
 That's such an odd and awesome question. Here you go: 👍💃🐶🚀
+
+
+#### OpenAQ Community Survey
+
+<a name="survey"/>
+
+**30. How can I take the OpenAQ Community Survey?**
+
+Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyurl.com/2018OpenAQsurvey). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
+
+<a name="surveyresults"/>
+
+**31. How can I find the results from last year's OpenAQ Community Survey?**
+
+The results for the 2017 Community Survey are here. Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
