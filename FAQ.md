@@ -430,4 +430,4 @@ Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyur
 
 **31. How can I find the results from last year's OpenAQ Community Survey?**
 
-The results for the 2017 Community Survey are here. Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
+The results for the 2017 Community Survey are [here](https://drive.google.com/file/d/1jxSYHz90jnY7An410rXxMHa0EExpo8bg/view?usp=sharing). Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
