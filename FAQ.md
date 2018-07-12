@@ -80,25 +80,27 @@ Contributing Development Skills for Enhancing the Platform
 
 **24. [What are cool ways that I can use the data?](#usedata)**
 
+**25. [Why does the same location occur multiple times?](#multiples)**
+
 
 #### Communicating with the Community
 
-**25. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
+**26. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
 
-**26. [How do I join your Slack Channel?](#slack)**
+**27. [How do I join your Slack Channel?](#slack)**
 
-**27. [I have a question that isn't answered here. How can I get it answered?](#question)**
+**28. [I have a question that isn't answered here. How can I get it answered?](#question)**
 
-**28. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
+**29. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
 
-**29. [What are your favorite emoji?](#emoji)**
+**30. [What are your favorite emoji?](#emoji)**
 
 
 #### OpenAQ Community Survey
 
-**30. [How can I take the Community Survey?](#survey)**
+**31. [How can I take the Community Survey?](#survey)**
 
-**31. [How can I find the results from last year's Community Survey?](#surveyresults)**
+**32. [How can I find the results from last year's Community Survey?](#surveyresults)**
 
 
 
@@ -379,6 +381,14 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 That's really up to you! And your imagination is the limit. In addition to the tools in the above question, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://openaq-slackin.herokuapp.com/).
 
 You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map), [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or use [our open API](https://docs.openaq.org).
+
+**25. Why does the same location occur multiple times?**
+
+This normally happens because the location names are slightly different coming from the source. Let's take a look at 'Shastri  nagar, Jaipur - RSPCB' as an example.
+
+![img_1431](https://user-images.githubusercontent.com/848934/42659278-c897a8be-85f5-11e8-8327-db32d5fc1ea1.jpg)
+
+You can see here that there are slight differences in spacing, which makes our system think these are different locations. Without a universal ID for all instruments, it's difficult to know exactly that these locations are the same. However, you can look at their coordinates (if provided) and make a guess that they're the same location.
 
 
 #### Communicating with the Community
