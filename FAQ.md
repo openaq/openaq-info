@@ -382,6 +382,8 @@ That's really up to you! And your imagination is the limit. In addition to the t
 
 You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map), [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or use [our open API](https://docs.openaq.org).
 
+<a name="multiples"/>
+
 **25. Why does the same location occur multiple times?**
 
 This normally happens because the location names are slightly different coming from the source. Let's take a look at 'Shastri  nagar, Jaipur - RSPCB' as an example.
@@ -395,7 +397,7 @@ You can see here that there are slight differences in spacing, which makes our s
 
 <a name="chat"/>
 
-**25. Where can I find people in the OpenAQ Community to chat with?** 
+**26. Where can I find people in the OpenAQ Community to chat with?** 
 
 The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
@@ -405,13 +407,13 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 <a name="slack"/>
 
-**26. How do I join your Slack Channel?**
+**27. How do I join your Slack Channel?**
 
 Go here: https://openaq-slackin.herokuapp.com/
 
 <a name="question"/>
 
-**27. I have a question that isn't answered here. How can I get it answered?**
+**28. I have a question that isn't answered here. How can I get it answered?**
 
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
@@ -419,11 +421,11 @@ Slack is faster than email because you'll get to talk to the whole community who
 
 <a name="emoji"/>
 
-**28. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+**29. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
 Is the sky blue (on an unpolluted day)? YES!! We are alway _always_ interested to hear how people are using these aggregated data - in fact, conveying the awesome work going on in our community is how we justify our existence to both ourselves and our funders! So please do tell us (info@openaq.org). 
 
-**29. What are your favorite emoji?**
+**30. What are your favorite emoji?**
 
 That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
@@ -432,12 +434,12 @@ That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
 <a name="survey"/>
 
-**30. How can I take the OpenAQ Community Survey?**
+**31. How can I take the OpenAQ Community Survey?**
 
 Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyurl.com/2018OpenAQsurvey). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
 
 <a name="surveyresults"/>
 
-**31. How can I find the results from last year's OpenAQ Community Survey?**
+**32. How can I find the results from last year's OpenAQ Community Survey?**
 
 The results for the 2017 Community Survey are [here](https://drive.google.com/file/d/1jxSYHz90jnY7An410rXxMHa0EExpo8bg/view?usp=sharing). Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
