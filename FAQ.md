@@ -245,6 +245,8 @@ Second question first! Don't worry, the full archives data are still stored and 
 - Go here for access to the data as it's added to our system: https://openaq-fetches.s3.amazonaws.com/index.html. This data is updated every 10 minutes when a new fetch runs. This source also contains all the information for each measurement. 
 - Go here for access to a daily archive of the data: https://openaq-data.s3.amazonaws.com/index.html. This is an older data format and while it contains most of the information you'd be looking for, it does not contain all the fields for each measurement.
 
+There are very powerful tools to query the above data. One example is using a distributed query tool like Athena or Spark. An example of how to do that can be found [here](https://gist.github.com/jflasher/573525aff9a5d8a966e5718272ceb25a).
+
 We are working to provide additional, more accessible-friendly ways to access these older data. If you have ideas, share them with us (via: info@openaq.org, a GitHub Issue, or discussion on our [Slack channel](https://openaq-slackin.herokuapp.com/)).
 
 So _why_ can you only access the last 90 days through the API and download portal on the OpenAQ website? 
