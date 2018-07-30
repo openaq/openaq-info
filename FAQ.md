@@ -14,43 +14,45 @@ Frequently Asked Questions
 
 **4. [What type of organization is OpenAQ and why?](#whatorg)**
 
-**5. [How is OpenAQ funded?](#howfund)**
+**5. [Who is on the OpenAQ non-profit Board?](#board)**
 
-**6. [Why does OpenAQ require funding, anyway?](#whyfund)**
+**6. [How is OpenAQ funded?](#howfund)**
 
-**7. [Can I donate funds?](#donate)**
+**7. [Why does OpenAQ require funding, anyway?](#whyfund)**
 
-**8. [Do you have a Community Code of Conduct?](#coc)**
+**8. [Can I donate funds?](#donate)**
+
+**9. [Do you have a Community Code of Conduct?](#coc)**
 
 ---
 
 ### B. Open Data Access
 
-**9. [What kinds of data are stored to the OpenAQ Platform?](#datakinds)**
+**10. [What kinds of data are stored to the OpenAQ Platform?](#datakinds)**
 
-**10. [How are data attributed to their sources? How can I find out the sources of the aggregated data?](#dataattribution)**
+**11. [How are data attributed to their sources? How can I find out the sources of the aggregated data?](#dataattribution)**
 
-**11. [How are the data licensed?](#license)**
+**12. [How are the data licensed?](#license)**
 
-**12. [How long are data stored?](#storage)**
+**13. [How long are data stored?](#storage)**
 
-**13. [What guarantees of the data accuracy are made of the data?](#accuracy)** 
+**14. [What guarantees of the data accuracy are made of the data?](#accuracy)** 
 
-**14. [What are the ways I can access data?](#access)**
+**15. [What are the ways I can access data?](#access)**
 
-**14.5 [Why can I only access data for the last 90 days? Where's the rest of the data?](#90days)**
+**16 [Why can I only access data for the last 90 days? Where's the rest of the data?](#90days)**
 
-**14.76 [How do I cite the OpenAQ platform in peer-reviewed literature?](#citing)**
+**17 [How do I cite the OpenAQ platform in peer-reviewed literature?](#citing)**
 
 ---
 
 ### C. Open Software Platform
 
-**15. [Why is the OpenAQ Platform open-source?](#whyopensource)**
+**18. [Why is the OpenAQ Platform open-source?](#whyopensource)**
 
-**16. [Where can I find the open-source software?](#whereopensource)**
+**19. [Where can I find the open-source software?](#whereopensource)**
 
-**17. [What is the license of the software?](#licenseopensource)**
+**20. [What is the license of the software?](#licenseopensource)**
  
 ---
 
@@ -58,49 +60,49 @@ Frequently Asked Questions
 
 #### Ongoing Projects
 
-**18. [What are some ongoing open-source projects involving OpenAQ?](#ongoingprojects)**
+**21. [What are some ongoing open-source projects involving OpenAQ?](#ongoingprojects)**
 
 
 #### Contributing Data Sources
 
-**19. [How can I help contribute new data sources? What information is needed for a new data source?](#help)**
+**22. [How can I help contribute new data sources? What information is needed for a new data source?](#help)**
 
-**20. [I suggested a new data source, but I haven't seen it added yet. What gives?](#suggestions)**
+**23. [I suggested a new data source, but I haven't seen it added yet. What gives?](#suggestions)**
 
 Contributing Development Skills for Enhancing the Platform
 
-**21. [What skills are needed to contribute to the code-base?](#skills)** 
+**24. [What skills are needed to contribute to the code-base?](#skills)** 
 
-**22. [Where can I find existing issues I can help out with?](#helpissues)**
+**25. [Where can I find existing issues I can help out with?](#helpissues)**
  
 
 #### Using the Data
 
-**23. [What community tools exist that I can use to explore the data?](#tools)**
+**26. [What community tools exist that I can use to explore the data?](#tools)**
 
-**24. [What are cool ways that I can use the data?](#usedata)**
+**27. [What are cool ways that I can use the data?](#usedata)**
 
-**25. [Why does the same location occur multiple times?](#multiples)**
+**28. [Why does the same location occur multiple times?](#multiples)**
 
 
 #### Communicating with the Community
 
-**26. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
+**29. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
 
-**27. [How do I join your Slack Channel?](#slack)**
+**30. [How do I join your Slack Channel?](#slack)**
 
-**28. [I have a question that isn't answered here. How can I get it answered?](#question)**
+**31. [I have a question that isn't answered here. How can I get it answered?](#question)**
 
-**29. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
+**32. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
 
-**30. [What are your favorite emoji?](#emoji)**
+**33. [What are your favorite emoji?](#emoji)**
 
 
 #### OpenAQ Community Survey
 
-**31. [How can I take the Community Survey?](#survey)**
+**34. [How can I take the Community Survey?](#survey)**
 
-**32. [How can I find the results from last year's Community Survey?](#surveyresults)**
+**35. [How can I find the results from last year's Community Survey?](#surveyresults)**
 
 
 
@@ -151,14 +153,27 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 
 <a name="whatorg"/>
 
-**4. What type of organization is OpenAQ and why?**
+**4. What type of organization is OpenAQ?**
 
-As of 1 Jan 2018, OpenAQ is a Washington, DC-based non-profit! Our inaugural non-profit board is made up of 5 people in the larger DC area: Heidi Yoon, Matt Higgins, Olaf Veerman, Sarah Menon, and Christa Hasenkopf.
+OpenAQ is a Washington, DC-based non-profit. We're working on our 501c3 status.
 
 
 <a name="howfund"/>
 
-**5. How is OpenAQ funded?**
+
+**5. [Who is on the OpenAQ non-profit Board?**
+
+The OpenAQ non-profit board consists of:
+Olaf Veerman - Chair
+Heidi Yoon - Community Engagement Officer
+Matthew Higgins - Treasurer
+Sarah Menon - Secretary
+Christa Hasenkopf - Chief Executive Officer
+
+
+<a name="board"/>
+
+**6. How is OpenAQ funded?**
 
 You can see our current list of partners and sponsors [here](https://openaq.org/#/about?_k=0niwqz) (bottom of the page). We  generally rely on a combination of government, private-sector, and non-profit/foundation grants in the open data, air quality and general environmental and public health spaces. At this time, we do not accept personal donations of funds. 
 
@@ -166,7 +181,7 @@ We are always on the lookout for partnerships to help us sustain and expand what
 
 <a name="whyfund"/>
 
-**6. Why does OpenAQ require funding, anyway?**
+**7. Why does OpenAQ require funding, anyway?**
 
 We're a pretty bare-bones operation, but we do need funds to a) fetch, store, and serve out all these data, b) host            workshops around the world, c) pay our one full-time staff member, d) contract out services for cool enhancements that        make the data easier and just keep the system working, and e) a small bit of organizational-upkeep costs. 
    
@@ -174,13 +189,13 @@ We're also looking with an eye to the future. We want to scale what we're doing 
    
 <a name="donate"/>
 
-**7. Can I donate funds?**
+**8. Can I donate funds?**
    
 It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we'd be much more grateful if you can dedicate your time and skills to doing cool stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. We also expect large organizations that use the OpenAQ platform to find a way to give back to our community for the sustainability of our system. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
 
 <a name="coc"/>
 
-**8. Do you have a Community Code of Conduct?**
+**9. Do you have a Community Code of Conduct?**
 
 Why, yes we do! You can read the [OpenAQ Community Code of Conduct here](https://github.com/openaq/openaq-info/blob/master/CODE-OF-CONDUCT.md).
 
@@ -191,13 +206,13 @@ Why, yes we do! You can read the [OpenAQ Community Code of Conduct here](https:/
 
 <a name="datakinds"/>
 
-**9. What kinds of air pollution data are stored to the OpenAQ Platform?**
+**10. What kinds of air pollution data are stored to the OpenAQ Platform?**
 
 We currently aggregate PM2.5, PM10, CO, SO2, NO2, O3, and BC. You can read more about the sources of these data [here](https://medium.com/@openaq/where-does-openaq-data-come-from-a5cf9f3a5c85#.f5h1gpse3). 
 
 <a name="dataattribution"/>
 
-**10. How are data attributed to their sources? How can I find out the sources of the aggregated data?**
+**11. How are data attributed to their sources? How can I find out the sources of the aggregated data?**
 
 Data are attributed directly to their sources in the [data format](https://github.com/openaq/openaq-data-format). This is evident when [downloading data](https://openaq.org/#/countries/AU) by CSV or accessible from the [API](https://docs.openaq.org). 
 
@@ -205,19 +220,19 @@ If you notice any inconsistencies or mistakes regarding attribution, please let 
 
 <a name="license"/>
 
-**11. How are the data licensed?**
+**12. How are the data licensed?**
 
 The data is licensed under [CC-By 4.0](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md).
 
 <a name="storage"/>
 
-**12. How long are data stored?**
+**13. How long are data stored?**
 
 Our intention is to permanently store and provide these data. 
 
 <a name="accuracy"/>
 
-**13. What guarantees of the data accuracy are made of the data?** 
+**14. What guarantees of the data accuracy are made of the data?** 
 
 We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer aggregating existing reported government-level, research-grade and other air quality data sources in the same universal format. 
 
@@ -227,7 +242,7 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 <a name="access"/>
 
-**14. What are the ways I can access data?**
+**15. What are the ways I can access data?**
 
 - Use [our open API](https://docs.openaq.org): This can return data from the past 90 days.
 - [Download data by csv](https://openaq.org/#/countries): This can return data from the past 90 days.
@@ -239,7 +254,7 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 <a name="90days"/>
 
-**14.5 Why can I only access data for the last 90 days? Where's the rest of the data?**
+**16. Why can I only access data for the last 90 days? Where's the rest of the data?**
 
 Second question first! Don't worry, the full archives data are still stored and available through the following mechanisms:
 - Go here for access to the data as it's added to our system: https://openaq-fetches.s3.amazonaws.com/index.html. This data is updated every 10 minutes when a new fetch runs. This source also contains all the information for each measurement. 
@@ -255,7 +270,7 @@ It comes down to keeping costs down and maintaining API responsiveness. As the n
 
 <a name="citing"/>
 
-**14.76 How do I cite the OpenAQ platform in peer-reviewed literature?**
+**17 How do I cite the OpenAQ platform in peer-reviewed literature?**
 
 Thanks for asking! Once your work is published, please let us know - especially if it is open access. Your work is an important example that justifies our very existence! Also, less grandiosly, it's just cool to hear about and share with the community.
 
@@ -281,13 +296,13 @@ We also have a peer-reviewed paper in the work. But, we'll be honest with you: I
 
 <a name="whyopensource"/>
 
-**15. Why is the OpenAQ Platform open-source?**
+**18. Why is the OpenAQ Platform open-source?**
 
 We want people to be able to add to what we’re doing, improve upon it and to build on top of it. We also want people to be able to take snippets of our code that are most useful to them for whatever purpose. That’s best accomplished by keeping our source code open. Read more about our guiding principles [here](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5).
 
 <a name="whereopensource"/>
 
-**16. Where can I find the open-source software that utilizes OpenAQ-aggregated data?**
+**19. Where can I find the open-source software that utilizes OpenAQ-aggregated data?**
 
 _Data Browsers & Visualizations:_
 - [OpenAQ Browser](https://dolugen.github.io/openaq-browser/#/): This browser allows the user to sift, sort and visualize OpenAQ-aggregated data in a friendly way, built by Dolugen Buuralda in Ulaanbaatar, Mongolia
@@ -298,7 +313,7 @@ _API Libraries_
 
 <a name="licenseopensource"/>
 
-**17. What is the license of the software?**
+**20. What is the license of the software?**
 
 All parts of the OpenAQ software are under the MIT License. Each of [our GitHub repos](https://github.com/openaq) lists this under its license. See [here](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md) for the API, for example.
  
@@ -310,7 +325,7 @@ All parts of the OpenAQ software are under the MIT License. Each of [our GitHub 
 
 <a name="ongoingprojects"/>
 
-**18. What are some ongoing open-source projects involving OpenAQ?**
+**21. What are some ongoing open-source projects involving OpenAQ?**
 
 _Data Browsers & Visualizations:_
 - [OpenAQ Browser](https://dolugen.github.io/openaq-browser/#/): This browser allows the user to sift, sort and visualize OpenAQ-aggregated data in a friendly way, built by Dolugen Buuralda in Ulaanbaatar, Mongolia
@@ -326,13 +341,13 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 <a name="help"/>
 
-**19. How can I help contribute new data sources? What information is needed for a new data source?**
+**22. How can I help contribute new data sources? What information is needed for a new data source?**
 
 You can make a [GitHub issue here](https://github.com/openaq/openaq-fetch/issues), submit something via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdcmn3qxoM69XIjJ3Pl4cyO6Ffk8TT40NC_XizS6snAQ7Z8_A/viewform), or email us at info@open.org. The data format and requirements are listed [here](https://github.com/openaq/openaq-data-format).
 
 <a name="suggestions"/>
 
-**20. I suggested a new data source, but I haven't seen it added yet. What gives?**
+**23. I suggested a new data source, but I haven't seen it added yet. What gives?**
 
 For government-grade sources, we generally have [more data sources](https://github.com/openaq/openaq-fetch/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) waiting to be added than we do bandwidth to insert them. We don't have any paid full-time (or part-time) developers, and rely on people to donate their time to add data sources. We're always seeking more help with those interested and with the skills to add in data sources to our system. In the future, as funds permit, we may contract out individuals to help us add in data sources more quickly.   
 
@@ -344,13 +359,13 @@ For non-research-grade low-cost sensors, we currently do not have a method to in
 
 #### Contributing Development Skills for Enhancing the Platform
 
-**21. What skills are needed to contribute to the code-base?** 
+**24. What skills are needed to contribute to the code-base?** 
 
 The front end is written in CSS, HTML and JavaScript using React. The API and updater are written in JavaScript using Node.js. There are a number of other small pieces (CSV exporter, health checker), mostly written in JS/Node.js. If you're interested in system architecture, everything runs on AWS.
 
 <a name="helpissues"/>
 
-**22. How can I contribute my software development skills? Where can I find existing GitHub issues I can help out with?**
+**25. How can I contribute my software development skills? Where can I find existing GitHub issues I can help out with?**
 
 Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/develop/CONTRIBUTING.md) for developers.
 
@@ -362,7 +377,7 @@ Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/dev
 
 <a name="tools"/>
 
-**23. What community tools exist that I can use to explore the data?**
+**26. What community tools exist that I can use to explore the data?**
 
 You can start playing around by [building your own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map) or [downloading data by csv](https://openaq.org/#/countries) or [our open API](https://docs.openaq.org).
 
@@ -378,7 +393,7 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 <a name="usedata"/>
 
-**24. What are cool ways that I can use the data?**
+**27. What are cool ways that I can use the data?**
 
 That's really up to you! And your imagination is the limit. In addition to the tools in the above question, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://openaq-slackin.herokuapp.com/).
 
@@ -386,7 +401,7 @@ You can start playing around by [building you own air quality comparisons](https
 
 <a name="multiples"/>
 
-**25. Why does the same location occur multiple times?**
+**28. Why does the same location occur multiple times?**
 
 This normally happens because the location names are slightly different coming from the source. Let's take a look at 'Shastri  nagar, Jaipur - RSPCB' as an example.
 
@@ -399,7 +414,7 @@ You can see here that there are slight differences in spacing, which makes our s
 
 <a name="chat"/>
 
-**26. Where can I find people in the OpenAQ Community to chat with?** 
+**29. Where can I find people in the OpenAQ Community to chat with?** 
 
 The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
@@ -409,13 +424,13 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 <a name="slack"/>
 
-**27. How do I join your Slack Channel?**
+**30. How do I join your Slack Channel?**
 
 Go here: https://openaq-slackin.herokuapp.com/
 
 <a name="question"/>
 
-**28. I have a question that isn't answered here. How can I get it answered?**
+**31. I have a question that isn't answered here. How can I get it answered?**
 
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
@@ -423,11 +438,11 @@ Slack is faster than email because you'll get to talk to the whole community who
 
 <a name="emoji"/>
 
-**29. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+**32. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
 Is the sky blue (on an unpolluted day)? YES!! We are alway _always_ interested to hear how people are using these aggregated data - in fact, conveying the awesome work going on in our community is how we justify our existence to both ourselves and our funders! So please do tell us (info@openaq.org). 
 
-**30. What are your favorite emoji?**
+**33. What are your favorite emoji?**
 
 That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
@@ -436,12 +451,12 @@ That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
 <a name="survey"/>
 
-**31. How can I take the OpenAQ Community Survey?**
+**34. How can I take the OpenAQ Community Survey?**
 
 Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyurl.com/2018OpenAQsurvey). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
 
 <a name="surveyresults"/>
 
-**32. How can I find the results from last year's OpenAQ Community Survey?**
+**35. How can I find the results from last year's OpenAQ Community Survey?**
 
 The results for the 2017 Community Survey are [here](https://drive.google.com/file/d/1jxSYHz90jnY7An410rXxMHa0EExpo8bg/view?usp=sharing). Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
