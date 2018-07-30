@@ -12,7 +12,7 @@ Frequently Asked Questions
 
 **3. [Who is part of OpenAQ and what have they built already?](#community)**
 
-**4. [What type of organization is OpenAQ and why?](#whatorg)**
+**4. [What type of organization is OpenAQ and where is it located?](#whatorg)**
 
 **5. [Who is on the OpenAQ non-profit Board?](#board)**
 
@@ -153,9 +153,11 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 
 <a name="whatorg"/>
 
-**4. What type of organization is OpenAQ?**
+**4. What type of organization is OpenAQ and where is it located?**
 
-OpenAQ is a Washington, DC-based non-profit. We're working on our 501c3 status.
+OpenAQ is a Washington, DC-based non-profit. We forme as a for-profit entity in 2015, and we transitioned to a non-profit entity on January 1, 2018. We're working on our 501c3 status. 
+
+The official address of OpenAQ is: 1226 9th St NW #200, Washington, DC 20001
 
 
 <a name="howfund"/>
