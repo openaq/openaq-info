@@ -28,7 +28,7 @@ Frequently Asked Questions
 
 ### B. Open Data Access
 
-**10. [What kinds of data are stored to the OpenAQ Platform?](#datakinds)**
+**10. [What kinds of data are stored to the OpenAQ Platform? Where is Air Quality Index data?](#datakinds)**
 
 **11. [How are data attributed to their sources? How can I find out the sources of the aggregated data?](#dataattribution)**
 
@@ -208,9 +208,9 @@ Why, yes we do! You can read the [OpenAQ Community Code of Conduct here](https:/
 
 <a name="datakinds"/>
 
-**10. What kinds of air pollution data are stored to the OpenAQ Platform?**
+**10. What kinds of air pollution data are stored to the OpenAQ Platform? Where is Air Quality Index data?**
 
-We currently aggregate PM2.5, PM10, CO, SO2, NO2, O3, and BC. You can read more about the sources of these data [here](https://medium.com/@openaq/where-does-openaq-data-come-from-a5cf9f3a5c85#.f5h1gpse3). 
+We currently aggregate PM2.5, PM10, CO, SO2, NO2, O3, and BC. You can read more about the sources of these data [here](https://medium.com/@openaq/where-does-openaq-data-come-from-a5cf9f3a5c85#.f5h1gpse3). We also do not store AQI data, you can find more about why [here](https://medium.com/@openaq/why-looking-beyond-air-quality-index-values-matters-d903bf773e1).
 
 <a name="dataattribution"/>
 
