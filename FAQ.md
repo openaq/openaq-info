@@ -345,7 +345,9 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 **22. How can I help contribute new data sources? What information is needed for a new data source?**
 
-You can make a [GitHub issue here](https://github.com/openaq/openaq-fetch/issues), submit something via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdcmn3qxoM69XIjJ3Pl4cyO6Ffk8TT40NC_XizS6snAQ7Z8_A/viewform), or email us at info@open.org. The data format and requirements are listed [here](https://github.com/openaq/openaq-data-format).
+Thanks for being interested in sharing a data source! You can make a [GitHub issue here](https://github.com/openaq/openaq-fetch/issues), submit something via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdcmn3qxoM69XIjJ3Pl4cyO6Ffk8TT40NC_XizS6snAQ7Z8_A/viewform), or email us at info@open.org. The data format and requirements are listed [here](https://github.com/openaq/openaq-data-format).
+
+Are you part of a government entity seeking to share data? First of all THANKS! Read [this post](https://medium.com/@openaq/how-can-a-government-source-add-data-to-openaq-50b5d83ef13f) with step by step instructions.
 
 <a name="suggestions"/>
 
