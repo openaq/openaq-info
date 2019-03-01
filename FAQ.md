@@ -250,8 +250,10 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 - [Download data by csv](https://openaq.org/#/countries): This can return data from the past 90 days.
 - You can [build you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world.
 - Check out the [global map](https://openaq.org/#/map) 
-- [Daily CSV dumps](https://openaq-data.s3.amazonaws.com/index.html)
+- [Realtime JSON dumps](https://openaq-fetches.s3.amazonaws.com/index.html)
 - [Daily PostgeSQL database snapshots](https://github.com/openaq/oh-snap) on Amazon RDS
+- [Realtime notifications](https://medium.com/@openaq/get-faster-access-to-real-time-air-quality-data-from-around-the-world-c6f9793d5242)
+- [Whole-archive query tool](https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd)
 
 
 <a name="90days"/>
@@ -260,9 +262,8 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 Second question first! Don't worry, the full archives data are still stored and available through the following mechanisms:
 - Go here for access to the data as it's added to our system: https://openaq-fetches.s3.amazonaws.com/index.html. This data is updated every 10 minutes when a new fetch runs. This source also contains all the information for each measurement. 
-- Go here for access to a daily archive of the data: https://openaq-data.s3.amazonaws.com/index.html. This is an older data format and while it contains most of the information you'd be looking for, it does not contain all the fields for each measurement.
 
-There are very powerful tools to query the above data. One example is using a distributed query tool like Athena or Spark. An example of how to do that can be found [here](https://gist.github.com/jflasher/573525aff9a5d8a966e5718272ceb25a).
+There are very powerful tools to query the above data. One example is using a distributed query tool like Athena or Spark. An example of how to do that can be found [here](https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd).
 
 We are working to provide additional, more accessible-friendly ways to access these older data. If you have ideas, share them with us (via: info@openaq.org, a GitHub Issue, or discussion on our [Slack channel](https://openaq-slackin.herokuapp.com/)).
 
