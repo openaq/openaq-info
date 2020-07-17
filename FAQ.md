@@ -82,25 +82,26 @@ Contributing Development Skills for Enhancing the Platform
 
 **27. [Why does the same location occur multiple times?](#multiples)**
 
+**28 [I think I may need an access key to access data stored in S3. Do I?] (#access)**
 
 #### Communicating with the Community
 
-**28. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
+**29. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
 
-**29. [How do I join your Slack Channel?](#slack)**
+**30. [How do I join your Slack Channel?](#slack)**
 
-**30. [I have a question that isn't answered here. How can I get it answered?](#question)**
+**31. [I have a question that isn't answered here. How can I get it answered?](#question)**
 
-**31. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
+**32. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
 
-**32. [What are your favorite emoji?](#emoji)**
+**33. [What are your favorite emoji?](#emoji)**
 
 
 #### OpenAQ Community Survey
 
-**33. [How can I take the Community Survey?](#survey)**
+**34. [How can I take the Community Survey?](#survey)**
 
-**34. [How can I find the results from last year's Community Survey?](#surveyresults)**
+**35. [How can I find the results from last year's Community Survey?](#surveyresults)**
 
 
 
@@ -398,12 +399,18 @@ This normally happens because the location names are slightly different coming f
 
 You can see here that there are slight differences in spacing, which makes our system think these are different locations. Without a universal ID for all instruments, it's difficult to know exactly that these locations are the same. However, you can look at their coordinates (if provided) and make a guess that they're the same location.
 
+<a name="access"/>
+
+**28 I think I may need an access key to access data stored in S3. Do I?**
+
+The data is in a publicly accessible bucket, so there is no key for us to provide. This sounds like you are trying to use the AWS CLI or an SDK to access the bucket but have not provided your personal AWS account credentials (that you create yourself). If you have an AWS account, you can provide those credentials. But also, you can just use the --no-sign-request flag in the CLI (or similar in SDK) to tell the request to not pass any credentials. That should also allow you to proceed. 
+
 
 #### Communicating with the Community
 
 <a name="chat"/>
 
-**28. Where can I find people in the OpenAQ Community to chat with?** 
+**29. Where can I find people in the OpenAQ Community to chat with?** 
 
 The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
@@ -413,13 +420,13 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 <a name="slack"/>
 
-**29. How do I join your Slack Channel?**
+**30. How do I join your Slack Channel?**
 
 Go here: https://openaq-slackin.herokuapp.com/
 
 <a name="question"/>
 
-**30. I have a question that isn't answered here. How can I get it answered?**
+**31. I have a question that isn't answered here. How can I get it answered?**
 
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
@@ -427,11 +434,11 @@ Slack is faster than email because you'll get to talk to the whole community who
 
 <a name="emoji"/>
 
-**31. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+**32. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
 Is the sky blue (on an unpolluted day)? YES!! We are _always_ interested to hear how people are using these aggregated data - in fact, conveying the awesome work going on in our community is how we justify our existence to both ourselves and our funders! So please do tell us (info@openaq.org). 
 
-**32. What are your favorite emoji?**
+**33. What are your favorite emoji?**
 
 That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
@@ -440,12 +447,12 @@ That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
 <a name="survey"/>
 
-**33. How can I take the OpenAQ Community Survey?**
+**34. How can I take the OpenAQ Community Survey?**
 
 Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyurl.com/2018OpenAQsurvey). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
 
 <a name="surveyresults"/>
 
-**34. How can I find the results from last year's OpenAQ Community Survey?**
+**35. How can I find the results from last year's OpenAQ Community Survey?**
 
 The results for the 2017 Community Survey are [here](https://drive.google.com/file/d/1jxSYHz90jnY7An410rXxMHa0EExpo8bg/view?usp=sharing). Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
