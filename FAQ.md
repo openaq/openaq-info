@@ -82,26 +82,28 @@ Contributing Development Skills for Enhancing the Platform
 
 **27. [Why does the same location occur multiple times?](#multiples)**
 
-**28 [I think I may need an access key to access data stored in S3. Do I?] (#access)**
+**28. [I think I may need an access key to access data stored in S3. Do I?](#access)**
+
+**29. [Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?](#description)
 
 #### Communicating with the Community
 
-**29. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
+**30. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
 
-**30. [How do I join your Slack Channel?](#slack)**
+**31. [How do I join your Slack Channel?](#slack)**
 
-**31. [I have a question that isn't answered here. How can I get it answered?](#question)**
+**32. [I have a question that isn't answered here. How can I get it answered?](#question)**
 
-**32. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
+**33. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
 
-**33. [What are your favorite emoji?](#emoji)**
+**34. [What are your favorite emoji?](#emoji)**
 
 
 #### OpenAQ Community Survey
 
-**34. [How can I take the Community Survey?](#survey)**
+**35. [How can I take the Community Survey?](#survey)**
 
-**35. [How can I find the results from last year's Community Survey?](#surveyresults)**
+**36. [How can I find the results from last year's Community Survey?](#surveyresults)**
 
 
 
@@ -401,16 +403,25 @@ You can see here that there are slight differences in spacing, which makes our s
 
 <a name="access"/>
 
-**28 I think I may need an access key to access data stored in S3. Do I?**
+**28. I think I may need an access key to access data stored in S3. Do I?**
 
 The data is in a publicly accessible bucket, so there is no key for us to provide. This sounds like you are trying to use the AWS CLI or an SDK to access the bucket but have not provided your personal AWS account credentials (that you create yourself). If you have an AWS account, you can provide those credentials. But also, you can just use the --no-sign-request flag in the CLI (or similar in SDK) to tell the request to not pass any credentials. That should also allow you to proceed. 
 
+
+<a name="description"/>
+
+**29. Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?**
+
+The Daily file was a daily rollup of the data coming into the system but has been deprecated for some time so you’ll only find older data there. You likely want to use the realtime or realtime-gzipped prefix (same data, just one is compressed and the other is not). This data comes in ~10 minute intervals as it is inserted into our system. There’s a folder with all the files for every day, all of the files are named with a timestamp for when the file was created. So if you’re searching for specific days or looking to do aggregations, the best way to do so would be to use AWS Athena, this guide https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd may be helpful.
+
+
+Broadly, the data in those files conforms to the format laid out in https://github.com/openaq/openaq-data-format/.
 
 #### Communicating with the Community
 
 <a name="chat"/>
 
-**29. Where can I find people in the OpenAQ Community to chat with?** 
+**30. Where can I find people in the OpenAQ Community to chat with?** 
 
 The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
@@ -420,13 +431,13 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 <a name="slack"/>
 
-**30. How do I join your Slack Channel?**
+**31. How do I join your Slack Channel?**
 
 Go here: https://openaq-slackin.herokuapp.com/
 
 <a name="question"/>
 
-**31. I have a question that isn't answered here. How can I get it answered?**
+**32. I have a question that isn't answered here. How can I get it answered?**
 
 The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
@@ -434,11 +445,11 @@ Slack is faster than email because you'll get to talk to the whole community who
 
 <a name="emoji"/>
 
-**32. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+**33. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
 Is the sky blue (on an unpolluted day)? YES!! We are _always_ interested to hear how people are using these aggregated data - in fact, conveying the awesome work going on in our community is how we justify our existence to both ourselves and our funders! So please do tell us (info@openaq.org). 
 
-**33. What are your favorite emoji?**
+**34. What are your favorite emoji?**
 
 That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
@@ -447,7 +458,7 @@ That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
 <a name="survey"/>
 
-**34. How can I take the OpenAQ Community Survey?**
+**35. How can I take the OpenAQ Community Survey?**
 
 Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyurl.com/2018OpenAQsurvey). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
 
