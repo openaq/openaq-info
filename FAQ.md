@@ -84,7 +84,7 @@ Contributing Development Skills for Enhancing the Platform
 
 **28. [I think I may need an access key to access data stored in S3. Do I?](#access)**
 
-**29. [Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?](#description)
+**29. [Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?](#description)**
 
 #### Communicating with the Community
 
