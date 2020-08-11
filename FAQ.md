@@ -38,7 +38,7 @@ Frequently Asked Questions
 
 **14. [What are the ways I can access data?](#access)**
 
-**15. [Why can I only access data for the last 90 days? Where's the rest of the data?](#90days)**
+**15. [Why can I only access data for the last two years? Where's the rest of the data?](#90days)**
 
 **16. [How do I cite the OpenAQ platform in peer-reviewed literature?](#citing)**
 
@@ -239,8 +239,8 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 **14. What are the ways I can access data?**
 
-- Use [our open API](https://docs.openaq.org): This can return data from the past 90 days.
-- [Download data by csv](https://openaq.org/#/countries): This can return data from the past 90 days.
+- Use [our open API](https://docs.openaq.org): This can return data from the past two years.
+- [Download data by csv](https://openaq.org/#/countries): This can return data from the past two years.
 - You can [build you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world.
 - Check out the [global map](https://openaq.org/#/map) 
 - [Realtime JSON dumps](https://openaq-fetches.s3.amazonaws.com/index.html)
@@ -251,16 +251,15 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 <a name="90days"/>
 
-**15. Why can I only access data for the last 90 days? Where's the rest of the data?**
+**15. Why can I only access data for the last 2 years? Where's the rest of the data?**
 
 Second question first! Don't worry, the full archives data are still stored and available through the following mechanisms:
 - Go here for access to the data as it's added to our system: https://openaq-fetches.s3.amazonaws.com/index.html. This data is updated every 10 minutes when a new fetch runs. This source also contains all the information for each measurement. 
 
 There are very powerful tools to query the above data. One example is using a distributed query tool like Athena or Spark. An example of how to do that can be found [here](https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd).
 
-We are working to provide additional, more accessible-friendly ways to access these older data. If you have ideas, share them with us (via: info@openaq.org, a GitHub Issue, or discussion on our [Slack channel](https://openaq-slackin.herokuapp.com/)).
 
-So _why_ can you only access the last 90 days through the API and download portal on the OpenAQ website? 
+So _why_ can you only access the last two years of data through the API and download portal on the OpenAQ website? 
 
 It comes down to keeping costs down and maintaining API responsiveness. As the number of our data records grew upwards of 100 million, it posed a challenge to make all of that information available through an efficiently running API (which also powers the download portal on the site). It also costs us a chunk of change to support a big database, so like a lot of open data projects, we opted to store older data in a more cost effective method that lets our API run more reliably and our database be smaller.
 
