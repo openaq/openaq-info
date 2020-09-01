@@ -151,7 +151,7 @@ Anyone who is using data aggregated from the OpenAQ system, helping build the pl
   
 To get a sense of who is involved with the OpenAQ Platform and using it: 
 - Visit [our repos in GitHub](https:/github.com/openaq).
-- Come chat with our community on [Slack] (https://openaq-slackin.herokuapp.com/).
+- Come chat with our community on [Slack](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral).
 - See our [Community Page](https://openaq.org/#/community?_k=0a10ny) that highlights some of the activities and resources created by our community.
 
 <a name="whatorg"/>
@@ -360,7 +360,7 @@ The front end is written in CSS, HTML and JavaScript using React. The API and up
 
 Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/develop/CONTRIBUTING.md) for developers.
 
-[Here](https://github.com/openaq)'s where we are on GitHub. You can see the most important respositories pinned at the top and all have managed issues lists. And one of the best ways to get oriented right now is to just reach out on [Slack](https://openaq-slackin.herokuapp.com/).
+[Here](https://github.com/openaq)'s where we are on GitHub. You can see the most important respositories pinned at the top and all have managed issues lists. And one of the best ways to get oriented right now is to just reach out on [Slack](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral).
 
 
 
@@ -386,7 +386,7 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 **26. What are cool ways that I can use the data?**
 
-That's really up to you! And your imagination is the limit. In addition to the tools in the above question, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://openaq-slackin.herokuapp.com/).
+That's really up to you! And your imagination is the limit. In addition to the tools in the above question, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral).
 
 You can start playing around by [building you own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map), [downloading data by csv](https://openaq.org/#/countries?_k=kxpa7v) or use [our open API](https://docs.openaq.org).
 
@@ -422,7 +422,7 @@ Broadly, the data in those files conforms to the format laid out in https://gith
 
 **30. Where can I find people in the OpenAQ Community to chat with?** 
 
-The most substantive way to interact with the community is to join our [Slack Channel](https://openaq-slackin.herokuapp.com/). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
+The most substantive way to interact with the community is to join our [Slack Channel](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
 You can also join us on [Twitter](https://twitter.com/Open_AQ) or on our [Facebook Page](https://www.facebook.com/openaq/). 
 
@@ -432,13 +432,13 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 **31. How do I join your Slack Channel?**
 
-Go here: https://openaq-slackin.herokuapp.com/
+Go here: https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral/
 
 <a name="question"/>
 
 **32. I have a question that isn't answered here. How can I get it answered?**
 
-The fastest way is to join [our Slack channel](https://openaq-slackin.herokuapp.com/) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
+The fastest way is to join [our Slack channel](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
 Slack is faster than email because you'll get to talk to the whole community who often know more than any single one of us and also are in various timezones. At this point, Community members are spread over many parts of the world.
 
