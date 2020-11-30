@@ -168,9 +168,12 @@ The official address of OpenAQ is: 1226 9th St NW #200, Washington, DC 20001
 
 **5. How is OpenAQ funded?**
 
-You can see our current list of partners and sponsors [here](https://openaq.org/#/about?_k=0niwqz) (bottom of the page). We  generally rely on a combination of government, private-sector, and non-profit/foundation grants in the open data, air quality and general environmental and public health spaces. At this time, we do not accept personal donations of funds. 
+You can see our current list of partners and sponsors [here](https://openaq.org/#/about?_k=0niwqz) (bottom of the page). We generally rely on a combination of government, private-sector, and non-profit/foundation grants in the open data, air quality and general environmental and public health spaces. 
 
-We are always on the lookout for partnerships to help us sustain and expand what our community is doing.
+We seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. We also expect large organizations that use the OpenAQ platform to find a way to give back to our community for the sustainability of our system. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org).
+
+We also are exploring and will be accepting individual donations as part of GivingTuesday as a start (See #7 below). We are always on the lookout for partnerships (of all types) to help us sustain and expand what our community is doing.
+
 
 <a name="whyfund"/>
 
@@ -184,7 +187,17 @@ We're also looking with an eye to the future. We want to scale what we're doing 
 
 **7. Can I donate funds?**
    
-It's awesome you'd even think of doing this! We don't accept donations from individuals at this time or foresee doing so in the near future. Frankly, we'd be much more grateful if you can dedicate your time and skills to doing cool stuff with the platform and data. We do seek to partner with organizations that are interested in fostering air quality awareness and actions around the world. We also expect large organizations that use the OpenAQ platform to find a way to give back to our community for the sustainability of our system. If your organization is interested in sponsoring our work or collaborating in some way, please let us know (info@openaq.org). 
+It's awesome you'd even think of doing this! We are honored that you ask. Currently, there are two ways that you can help us.
+
+1. _Contribute your time and expertise_: As a community-driven platform, your contributions and feedback have a huge impact on the long-term sustainability of the OpenAQ infrastructure. In the spirit of supporting an open source culture, here are a few ways that you can get involved:
+    - Contribute to the OpenAQ  platform by adding data sources, fixing bugs, among other valuable data infrastructure support. Learn how to get started as a contributor.
+    - Share feedback on the tools and other platform features we build with info@openaq.org.
+    - Help spread the word about OpenAQ to your community, your government or other like-minded organizations that are interested in fostering air quality awareness and actions around the world.
+
+2. _Make a financial donation to OpenAQ_: As an open source organization at the forefront of fostering data transparency, we don’t expect anyone looking to use our data or our platform to make a financial donation. To help us grow, we have relied on a combination of institutional funders and valuable contributions from our community. If you are a funding organization or company interested in supporting our work, please reach out to us at info@openaq.org. 
+
+    What’s new is that we will be moving to accept individual donations as part of GivingTuesday (Tuesday, December 1, 2020). Learn more about our participation here. We believe that accepting individual financial donations will lead to greater awareness of work and impact, and give us the type of flexible unrestricted funding that will allow us to continue to grow, to innovate and better serve the OpenAQ community in the future while remaining a free open source resource for everyone.
+
 
 <a name="coc"/>
 
