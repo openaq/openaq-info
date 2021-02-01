@@ -28,29 +28,31 @@ Frequently Asked Questions
 
 **9. [What kinds of data are stored to the OpenAQ Platform? Where is Air Quality Index data?](#datakinds)**
 
-**10. [How are data attributed to their sources? How can I find out the sources of the aggregated data?](#dataattribution)**
+**10. [What are low-cost sensors and why have they been added to the platform?](#lowcostsensors)**
 
-**11. [How are the data licensed?](#license)**
+**11. [How are data attributed to their sources? How can I find out the sources of the aggregated data?](#dataattribution)**
 
-**12. [How long are data stored?](#storage)**
+**12. [How are the data licensed?](#license)**
 
-**13. [What guarantees of the data accuracy are made of the data?](#accuracy)** 
+**13. [How long are data stored?](#storage)**
 
-**14. [What are the ways I can access data?](#access)**
+**14. [What guarantees of the data accuracy are made of the data?](#accuracy)** 
 
-**15. [Why can I only access data for the last two years? Where's the rest of the data?](#90days)**
+**15. [What are the ways I can access data?](#access)**
 
-**16. [How do I cite the OpenAQ platform in peer-reviewed literature?](#citing)**
+**16. [Why can I only access data for the last two years? Where's the rest of the data?](#90days)**
+
+**17. [How do I cite the OpenAQ platform in peer-reviewed literature?](#citing)**
 
 ---
 
 ### C. Open Software Platform
 
-**17. [Why is the OpenAQ Platform open-source?](#whyopensource)**
+**18. [Why is the OpenAQ Platform open-source?](#whyopensource)**
 
-**18. [Where can I find the open-source software?](#whereopensource)**
+**19. [Where can I find the open-source software?](#whereopensource)**
 
-**19. [What is the license of the software?](#licenseopensource)**
+**20. [What is the license of the software?](#licenseopensource)**
  
 ---
 
@@ -58,52 +60,52 @@ Frequently Asked Questions
 
 #### Ongoing Projects
 
-**20. [What are some ongoing open-source projects involving OpenAQ?](#ongoingprojects)**
+**21. [What are some ongoing open-source projects involving OpenAQ?](#ongoingprojects)**
 
 
 #### Contributing Data Sources
 
-**21. [How can I help contribute new data sources? What information is needed for a new data source?](#help)**
+**22. [How can I help contribute new data sources? What information is needed for a new data source?](#help)**
 
-**22. [I suggested a new data source, but I haven't seen it added yet. What gives?](#suggestions)**
+**23. [I suggested a new data source, but I haven't seen it added yet. What gives?](#suggestions)**
 
 Contributing Development Skills for Enhancing the Platform
 
-**23. [What skills are needed to contribute to the code-base?](#skills)** 
+**24. [What skills are needed to contribute to the code-base?](#skills)** 
 
-**24. [Where can I find existing issues I can help out with?](#helpissues)**
+**25. [Where can I find existing issues I can help out with?](#helpissues)**
  
 
 #### Using the Data
 
-**25. [What community tools exist that I can use to explore the data?](#tools)**
+**26. [What community tools exist that I can use to explore the data?](#tools)**
 
-**26. [What are cool ways that I can use the data?](#usedata)**
+**27. [What are cool ways that I can use the data?](#usedata)**
 
-**27. [Why does the same location occur multiple times?](#multiples)**
+**28. [Why does the same location occur multiple times?](#multiples)**
 
-**28. [I think I may need an access key to access data stored in S3. Do I?](#access)**
+**29. [I think I may need an access key to access data stored in S3. Do I?](#access)**
 
-**29. [Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?](#description)**
+**30. [Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?](#description)**
 
 #### Communicating with the Community
 
-**30. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
+**31. [Where can I find people in the OpenAQ Community to chat with?](#chat)** 
 
-**31. [How do I join your Slack Channel?](#slack)**
+**32. [How do I join your Slack Channel?](#slack)**
 
-**32. [I have a question that isn't answered here. How can I get it answered?](#question)**
+**33. [I have a question that isn't answered here. How can I get it answered?](#question)**
 
-**33. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
+**34. [I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?](#tellus)**
 
-**34. [What are your favorite emoji?](#emoji)**
+**35. [What are your favorite emoji?](#emoji)**
 
 
 #### OpenAQ Community Survey
 
-**35. [How can I take the Community Survey?](#survey)**
+**36. [How can I take the Community Survey?](#survey)**
 
-**36. [How can I find the results from last year's Community Survey?](#surveyresults)**
+**37. [How can I find the results from last year's Community Survey?](#surveyresults)**
 
 
 
@@ -214,11 +216,28 @@ Why, yes we do! You can read the [OpenAQ Community Code of Conduct here](https:/
 
 **9. What kinds of data are stored to the OpenAQ Platform? Where is Air Quality Index data?**
 
-Our focus is air quality data and we currently aggregate PM2.5, PM10, CO, SO2, NO2, O3, and BC. You can read more about the sources of these data [here](https://medium.com/@openaq/where-does-openaq-data-come-from-a5cf9f3a5c85#.f5h1gpse3). We also do not store AQI data, you can find more about why [here](https://medium.com/@openaq/why-looking-beyond-air-quality-index-values-matters-d903bf773e1).
+Our focus is air quality data and we aggregate primarily PM2.5, PM10, CO, SO2, NO2, O3, and BC measurements from reference-grade monitors and [now, as a pilot, low-cost sensors](https://medium.com/@openaq/low-cost-sensor-platform-pilot-launch-bd66ab226c6). For a limited set of locations, we also have data for PM1, PM1 counts, PM2.5 counts, PM10 counts, CH4, CO mass, CO2, NO, NOx, NO2 mass, O3 mass, SO2 mass, UFP count. Read more about our [data format](https://github.com/openaq/openaq-data-format) and [data type definitions](https://github.com/openaq/openaq-data-format/blob/master/data-type-definitions.md). You can read more about the sources of these data [here](https://medium.com/@openaq/where-does-openaq-data-come-from-a5cf9f3a5c85#.f5h1gpse3). We also do not store AQI data, you can find more about why [here](https://medium.com/@openaq/why-looking-beyond-air-quality-index-values-matters-d903bf773e1).
+
+<a name="lowcostsensors"/>
+
+**10. What are low-cost sensors and why have they been added to the platform?**
+
+In a few words, low-cost sensors are newer, often smaller and less expensive air quality sensors than traditional reference-grade monitors. Low-costs sensors measure specific air pollutants, typically particulate matter and occasionally gaseous pollutants. While "low-cost" is subjective, the cost tends to be $100s or $1000s instead of $10,000s. 
+
+In greater detail,  Low-cost sensor data refer to all non-reference-grade data that is produced by a wide variety of sources, from individuals in their communities,  researchers, to government actors. Low-cost sensor data does not refer directly to specific cost bands, as what counts as “low-cost” varies based on socioeconomic and regional variables. Sensors in this category use technology components that are typically less expensive to manufacture than reference sensors or use reference-grade components in an atypical configuration and as a consequence may generate less robust data with lower accuracy and precision.  
+
+Learn more through the [EPA’s Air Sensor Toolbox](https://www.epa.gov/air-sensor-toolbox) and [South Coast AQMD’s AQ-SPEC](http://www.aqmd.gov/aq-spec).
+
+Since the beginning, OpenAQ's focus has been exclusively reference-grade government air quality data, but we recognize the limitations this poses and how low-cost sensors have become an important part of the air quality ecosystem:
+1. _Currently, only [half of the world’s governments produce air quality data](https://openaq.org/assets/files/2020_OpenData_StateofPlay.pdf)_, leaving 1.4 billion people without access to government-sponsored, reference grade data. Low-cost sensors can help fill in these large data gaps, particularly in the Global South, where air quality data has had historically sparse coverage.
+
+2. _There are a growing number and variety of stakeholders who are generating air quality data._ Advancements in sensor technology and subsequent emergence of lower cost sensors have lowered the barrier for entry, encouraging a greater number of participants to produce air quality knowledge (including researchers, community organizers, citizen scientists). We wanted the platform to reflect the diversity of the landscape, highlighting new collaborations and possibilities. 
+
+Our [low-cost sensor platform is a pilot](https://medium.com/@openaq/low-cost-sensor-platform-pilot-launch-bd66ab226c6)! [Give us feedback](https://forms.gle/YMzf9bPsTBCQx5dj9) and let us know how you are using the new data.
 
 <a name="dataattribution"/>
 
-**10. How are data attributed to their sources? How can I find out the sources of the aggregated data?**
+**11. How are data attributed to their sources? How can I find out the sources of the aggregated data?**
 
 Data are attributed directly to their sources in the [data format](https://github.com/openaq/openaq-data-format). This is evident when [downloading data](https://openaq.org/#/countries/AU) by CSV or accessible from the [API](https://docs.openaq.org).
 
@@ -228,19 +247,19 @@ If you notice any inconsistencies or mistakes regarding attribution, please let 
 
 <a name="license"/>
 
-**11. How are the data licensed?**
+**12. How are the data licensed?**
 
-The data is licensed under [CC-By 4.0](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md).
+The data is licensed under [CC-By 4.0](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md). Read our [Data Policy](https://github.com/openaq/openaq-info/blob/master/DATA-POLICY.md) for more information.
 
 <a name="storage"/>
 
-**12. How long are data stored?**
+**13. How long are data stored?**
 
 Our intention is to permanently store and provide these data. 
 
 <a name="accuracy"/>
 
-**13. What guarantees of the data accuracy are made of the data?** 
+**14. What guarantees of the data accuracy are made of the data?** 
 
 We don't make _any_ guarantees for data quality; that is not the goal of this platform. The goal of this platform is to       create a base layer aggregating existing reported government-level, research-grade and other air quality data sources in the same universal format. 
 
@@ -250,7 +269,7 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 <a name="access"/>
 
-**14. What are the ways I can access data?**
+**15. What are the ways I can access data?**
 
 - Use [our open API](https://docs.openaq.org): This can return data from the past two years.
 - [Download data by csv](https://openaq.org/#/countries): This can return data from the past two years.
@@ -264,7 +283,7 @@ We do have a [Community Wishlist](https://medium.com/@openaq/whats-on-the-openaq
 
 <a name="90days"/>
 
-**15. Why can I only access data for the last 2 years? Where's the rest of the data?**
+**16. Why can I only access data for the last 2 years? Where's the rest of the data?**
 
 Second question first! Don't worry, the full archives data are still stored and available through the following mechanisms:
 - Go here for access to the data as it's added to our system: https://openaq-fetches.s3.amazonaws.com/index.html. This data is updated every 10 minutes when a new fetch runs. This source also contains all the information for each measurement. 
@@ -278,7 +297,7 @@ It comes down to keeping costs down and maintaining API responsiveness. As the n
 
 <a name="citing"/>
 
-**16. How do I cite the OpenAQ platform in peer-reviewed literature?**
+**17. How do I cite the OpenAQ platform in peer-reviewed literature?**
 
 Thanks for asking! Once your work is published, please let us know - especially if it is open access. Your work is an important example that justifies our very existence! Also, less grandiosly, it's just cool to hear about and share with the community.
 
@@ -303,13 +322,13 @@ Check out some of the [publications](https://scholar.google.com/scholar?hl=en&as
 
 <a name="whyopensource"/>
 
-**17. Why is the OpenAQ Platform open-source?**
+**18. Why is the OpenAQ Platform open-source?**
 
 We want people to be able to add to what we’re doing, improve upon it and to build on top of it. We also want people to be able to take snippets of our code that are most useful to them for whatever purpose. That’s best accomplished by keeping our source code open. Read more about our guiding principles [here](https://medium.com/@openaq/the-mission-of-openaq-cb159084beeb#.fo69lg5v5).
 
 <a name="whereopensource"/>
 
-**18. Where can I find the open-source software that utilizes OpenAQ-aggregated data?**
+**19. Where can I find the open-source software that utilizes OpenAQ-aggregated data?**
 
 _Data Browsers & Visualizations:_
 - [OpenAQ Browser](https://dolugen.github.io/openaq-browser/#/): This browser allows the user to sift, sort and visualize OpenAQ-aggregated data in a friendly way, built by Dolugen Buuralda in Ulaanbaatar, Mongolia
@@ -320,7 +339,7 @@ _API Libraries_
 
 <a name="licenseopensource"/>
 
-**19. What is the license of the software?**
+**20. What is the license of the software?**
 
 All parts of the OpenAQ software are under the MIT License. Each of [our GitHub repos](https://github.com/openaq) lists this under its license. See [here](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md) for the API, for example.
  
@@ -332,7 +351,7 @@ All parts of the OpenAQ software are under the MIT License. Each of [our GitHub 
 
 <a name="ongoingprojects"/>
 
-**20. What are some ongoing open-source projects involving OpenAQ?**
+**21. What are some ongoing open-source projects involving OpenAQ?**
 
 Check out our community page [here](https://openaq.org/#/community/projects?_k=zruita)
 
@@ -343,7 +362,7 @@ _Do you have an open-source tool you'd like to share? Let us know! Make an issue
 
 <a name="help"/>
 
-**21. How can I help contribute new data sources? What information is needed for a new data source?**
+**22. How can I help contribute new data sources? What information is needed for a new data source?**
 
 Thanks for being interested in sharing a data source! You can make a [GitHub issue here](https://github.com/openaq/openaq-fetch/issues), submit something via this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdcmn3qxoM69XIjJ3Pl4cyO6Ffk8TT40NC_XizS6snAQ7Z8_A/viewform), or email us at info@open.org. The data format and requirements are listed [here](https://github.com/openaq/openaq-data-format).
 
@@ -351,7 +370,7 @@ Are you part of a government entity seeking to share data? First of all THANKS! 
 
 <a name="suggestions"/>
 
-**22. I suggested a new data source, but I haven't seen it added yet. What gives?**
+**23. I suggested a new data source, but I haven't seen it added yet. What gives?**
 
 For government-grade sources, we generally have [more data sources](https://github.com/openaq/openaq-fetch/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) waiting to be added than we do bandwidth to insert them. We're always seeking help from those interested and with the skills to add in data sources to our system. More info on how to get started as a contributor can be found [here](#skills). 
 
@@ -363,13 +382,13 @@ For non-research-grade low-cost sensors, we are evaluating the best way to add i
 
 #### Contributing Development Skills for Enhancing the Platform
 
-**23. What skills are needed to contribute to the code-base?** 
+**24. What skills are needed to contribute to the code-base?** 
 
 The front end is written in CSS, HTML and JavaScript using React. The API and updater are written in JavaScript using Node.js. There are a number of other small pieces (CSV exporter, health checker), mostly written in JS/Node.js. If you're interested in system architecture, everything runs on AWS.
 
 <a name="helpissues"/>
 
-**24. How can I contribute my software development skills? Where can I find existing GitHub issues I can help out with?**
+**25. How can I contribute my software development skills? Where can I find existing GitHub issues I can help out with?**
 
 Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/develop/CONTRIBUTING.md) for developers.
 
@@ -381,7 +400,7 @@ Here are [Contribution Guidelines](https://github.com/openaq/openaq-api/blob/dev
 
 <a name="tools"/>
 
-**25. What community tools exist that I can use to explore the data?**
+**26. What community tools exist that I can use to explore the data?**
 
 You can start playing around by [building your own air quality comparisons](https://openaq.org/#/compare/MNB/Beijing%20US%20Embassy/Anand%20Vihar?parameter=pm25) of stations around the world, check out the [global map](https://openaq.org/#/map) or [downloading data by csv](https://openaq.org/#/countries) or [our open API](https://docs.openaq.org).
 
@@ -397,7 +416,7 @@ _Do you have an open-source tool you'd like to share? Let us know! Make in issue
 
 <a name="usedata"/>
 
-**26. What are cool ways that I can use the data?**
+**27. What are cool ways that I can use the data?**
 
 That's really up to you! And your imagination is the limit. In addition to the tools in the above question, you can find out how our community is using the data on our [Community Page](https://openaq.org/#/community), [our blog](https://medium.com/@openaq) and just by chatting with people on [Slack](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral).
 
@@ -405,7 +424,7 @@ You can start playing around by [building you own air quality comparisons](https
 
 <a name="multiples"/>
 
-**27. Why does the same location occur multiple times?**
+**28. Why does the same location occur multiple times?**
 
 This normally happens because the location names are slightly different coming from the source. Let's take a look at 'Shastri  nagar, Jaipur - RSPCB' as an example.
 
@@ -415,14 +434,14 @@ You can see here that there are slight differences in spacing, which makes our s
 
 <a name="access"/>
 
-**28. I think I may need an access key to access data stored in S3. Do I?**
+**29. I think I may need an access key to access data stored in S3. Do I?**
 
 The data is in a publicly accessible bucket, so there is no key for us to provide. This sounds like you are trying to use the AWS CLI or an SDK to access the bucket but have not provided your personal AWS account credentials (that you create yourself). If you have an AWS account, you can provide those credentials. But also, you can just use the --no-sign-request flag in the CLI (or similar in SDK) to tell the request to not pass any credentials. That should also allow you to proceed. 
 
 
 <a name="description"/>
 
-**29. Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?**
+**30. Do you have dataset descriptions for the datasets listed here - https://openaq-fetches.s3.amazonaws.com/index.html?**
 
 The Daily file was a daily rollup of the data coming into the system but has been deprecated for some time so you’ll only find older data there. You likely want to use the realtime or realtime-gzipped prefix (same data, just one is compressed and the other is not). This data comes in ~10 minute intervals as it is inserted into our system. There’s a folder with all the files for every day, all of the files are named with a timestamp for when the file was created. So if you’re searching for specific days or looking to do aggregations, the best way to do so would be to use AWS Athena, this guide https://medium.com/@openaq/how-in-the-world-do-you-access-air-quality-data-older-than-90-days-on-the-openaq-platform-8562df519ecd may be helpful.
 
@@ -433,7 +452,7 @@ Broadly, the data in those files conforms to the format laid out in https://gith
 
 <a name="chat"/>
 
-**30. Where can I find people in the OpenAQ Community to chat with?** 
+**31. Where can I find people in the OpenAQ Community to chat with?** 
 
 The most substantive way to interact with the community is to join our [Slack Channel](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral). If you're not familiar with Slack, it's just a free tool we use to chat with one another. 
 
@@ -443,13 +462,13 @@ Always feel free to reach out by email, too (info@openaq.org).
 
 <a name="slack"/>
 
-**31. How do I join your Slack Channel?**
+**32. How do I join your Slack Channel?**
 
 Go here: https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral/
 
 <a name="question"/>
 
-**32. I have a question that isn't answered here. How can I get it answered?**
+**33. I have a question that isn't answered here. How can I get it answered?**
 
 The fastest way is to join [our Slack channel](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral) and ask us and the rest of the community. The second fastest way is to email info@openaq.org. 
 
@@ -457,11 +476,11 @@ Slack is faster than email because you'll get to talk to the whole community who
 
 <a name="emoji"/>
 
-**33. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
+**34. I've made something awesome with data aggregated onto the OpenAQ Platform. Do you want to know about it?**
 
 Is the sky blue (on an unpolluted day)? YES!! We are _always_ interested to hear how people are using these aggregated data - in fact, conveying the awesome work going on in our community is how we justify our existence to both ourselves and our funders! So please do tell us (info@openaq.org). 
 
-**34. What are your favorite emoji?**
+**35. What are your favorite emoji?**
 
 That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
@@ -470,12 +489,12 @@ That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
 <a name="survey"/>
 
-**35. How can I take the OpenAQ Community Survey?**
+**36. How can I take the OpenAQ Community Survey?**
 
 Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyurl.com/2018OpenAQsurvey). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
 
 <a name="surveyresults"/>
 
-**35. How can I find the results from last year's OpenAQ Community Survey?**
+**37. How can I find the results from last year's OpenAQ Community Survey?**
 
 The results for the 2017 Community Survey are [here](https://drive.google.com/file/d/1jxSYHz90jnY7An410rXxMHa0EExpo8bg/view?usp=sharing). Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
