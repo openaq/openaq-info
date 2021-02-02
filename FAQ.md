@@ -162,7 +162,7 @@ To get a sense of who is involved with the OpenAQ Platform and using it:
 
 OpenAQ is a Washington, DC-based non-profit with 501c3 status, our EIN is 47-5324172.
 
-The official address of OpenAQ is: 1226 9th St NW #200, Washington, DC 20001
+The official address of OpenAQ is: 4301 50th St NW, Suite 300 #1046, Washington, DC 20016
 
 
 <a name="howfund"/>
@@ -249,7 +249,9 @@ If you notice any inconsistencies or mistakes regarding attribution, please let 
 
 **12. How are the data licensed?**
 
-The data is licensed under [CC-By 4.0](https://github.com/openaq/openaq-api/blob/develop/LICENSE.md). Read our [Data Policy](https://github.com/openaq/openaq-info/blob/master/DATA-POLICY.md) for more information.
+Air quality data is factual in nature, and in some jurisdictions may not be subject to copyright or other protections, limiting its use or distribution. However, in some jurisdictions, copyright and/or laws and regulations may apply to some of the data on the OpenAQ platform. 
+
+A number of our sources provide their air quality data under specific licensing, such as Creative Commons licensing or open government licenses, which require source attribution. Regardless of such requirements, we believe in the importance of attributing data sources and strongly encourage everyone to do so. Read our [Data Policy](https://github.com/openaq/openaq-info/blob/master/DATA-POLICY.md) for more information.
 
 <a name="storage"/>
 
@@ -491,10 +493,10 @@ That's such an odd and awesome question. Here you go: 👍💃🐶🚀
 
 **36. How can I take the OpenAQ Community Survey?**
 
-Thanks for asking! Our OpenAQ Community Survey is available [here](http://tinyurl.com/2018OpenAQsurvey). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
+Thanks for asking! Our OpenAQ Community Survey is available [here](https://docs.google.com/forms/d/e/1FAIpQLSfv4R7Vw2QJw_E6JsRUJshOKKkGxv60Tj2YgJ9ijoM06epYew/viewform). We are excited to hear your thoughts about air inequality and how OpenAQ serves you and your community. Your answers will help shape how OpenAQ will evolve in the future!
 
 <a name="surveyresults"/>
 
 **37. How can I find the results from last year's OpenAQ Community Survey?**
 
-The results for the 2017 Community Survey are [here](https://drive.google.com/file/d/1jxSYHz90jnY7An410rXxMHa0EExpo8bg/view?usp=sharing). Feel free to contact Heidi (heidi@openaq.org) if you have any questions about the survey or the results!
+The results for our Community Survey are [here](https://docsend.com/view/3h5r7sv). Feel free to contact Chisato (chisato@openaq.org) if you have any questions about the survey or the results!
