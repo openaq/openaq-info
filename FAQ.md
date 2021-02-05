@@ -189,7 +189,7 @@ We're also looking with an eye to the future. We want to scale what we're doing 
 
 **7. Can I donate funds?**
    
-It's awesome you'd even think of doing this! We are honored that you ask. Currently, there are two ways that you can help us.
+It's awesome you'd even think of doing this! We are honored that you'd ask. Currently, there are two ways that you can help us.
 
 1. _Contribute your time and expertise_: As a community-driven platform, your contributions and feedback have a huge impact on the long-term sustainability of the OpenAQ infrastructure. In the spirit of supporting an open source culture, here are a few ways that you can get involved:
     - Contribute to the OpenAQ  platform by adding data sources, fixing bugs, among other valuable data infrastructure support. Learn how to get started as a contributor.
@@ -198,7 +198,7 @@ It's awesome you'd even think of doing this! We are honored that you ask. Curren
 
 2. _Make a financial donation to OpenAQ_: As an open source organization at the forefront of fostering data transparency, we don’t expect anyone looking to use our data or our platform to make a financial donation. To help us grow, we have relied on a combination of institutional funders and valuable contributions from our community. If you are a funding organization or company interested in supporting our work, please reach out to us at info@openaq.org. 
 
-    What’s new is that we will be moving to accept individual donations as part of GivingTuesday (Tuesday, December 1, 2020). Learn more about our participation here. We believe that accepting individual financial donations will lead to greater awareness of work and impact, and give us the type of flexible unrestricted funding that will allow us to continue to grow, to innovate and better serve the OpenAQ community in the future while remaining a free open source resource for everyone.
+    What’s new is that we are now accepting individual donations after GivingTuesday (Tuesday, December 1, 2020). Learn more about how to give [here](https://secure.givelively.org/donate/openaq-inc/2021-openaq-giving-campaign). We believe that accepting individual financial donations will lead to greater awareness of work and impact, and give us the type of flexible, unrestricted funding that will allow us to continue to grow, to innovate and better serve the OpenAQ Community in the future, while remaining a free, open source resource for everyone.
 
 
 <a name="coc"/>
