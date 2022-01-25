@@ -1,7 +1,7 @@
 
 # About The OpenAQ Code of Conduct
 
-OpenAQ is a community organization. We value the involvement of everyone in this community - developpers, users. We are committed to creating a friendly and respectful place for learning  and sharing knowledge about air quality and contributing to the platform. All participants in our repositories, events and communication channels are expected to show respect and courtesy to others.
+OpenAQ is a community organization. We value the involvement of everyone in this community - developers and users. We are committed to creating a friendly and respectful place for learning  and sharing knowledge about air quality and contributing to the platform. All participants in our repositories, events and communication channels are expected to show respect and courtesy to others.
 
 To make clear what is expected, everyone participating in OpenAQ activities is required to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by OpenAQ including, but not limited to, workshops, email lists, online forums and on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.
 
