@@ -148,7 +148,7 @@ Anyone who is using data aggregated from the OpenAQ system, helping build the pl
 ![](https://user-images.githubusercontent.com/6357273/69098274-3e640a00-0a26-11ea-8987-1195f3fe3a7c.png)
   
 To get a sense of who is involved with the OpenAQ Platform and using it: 
-- Visit [our repos in GitHub](https:/github.com/openaq).
+- Visit [our repos in GitHub](https://github.com/openaq).
 - Come chat with our community on [Slack](https://join.slack.com/t/openaq/shared_invite/zt-gq14aew7-CVdp131g7TR7o9iiXIVDLwGeneral).
 - See our [Community Page](https://openaq.org/#/community?_k=0a10ny) that highlights some of the activities and resources created by our community.
 
